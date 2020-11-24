@@ -6,8 +6,7 @@
 <html lang="lt-lt" dir="ltr" class="ltr menu-effect">
 	<head>
 		<meta charset="utf-8" />
-		<title>Pirkti PlayStation 5 žaidimų konsolė 825GB (PS5)</title>
-		<meta name="description" content=" Sony Interactive Entertainment, " />
+		<title>PlayStation 5 konsolės - GAME ROOM</title>
 
 		<meta name="robots" content="index,follow" />
 		<meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0" /> 
@@ -17,32 +16,18 @@
 		<link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1606071820" />
 		<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1606071820" />
 
-					<link rel="stylesheet" href="https://gameroom.lt/themes/pf_megashop/cache/v_455_5352ff646b6b6300440e799cc486e3eb_all.css" type="text/css" media="all" />
-							<link rel="stylesheet" href="https://gameroom.lt/themes/pf_megashop/cache/v_455_08ef54da484880ac45f2b1248339f3e6_print.css" type="text/css" media="print" />
-					<meta property="og:type" content="product" />
-<meta property="og:url" content="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882" />
-<meta property="og:title" content="Pirkti PlayStation 5 žaidimų konsolė 825GB (PS5)" />
+					<link rel="stylesheet" href="https://gameroom.lt/themes/pf_megashop/cache/v_455_8420a2ba82b9f1bfaf7910bc191225c3_all.css" type="text/css" media="all" />
+					
+<meta property="og:url" content="https://gameroom.lt/lt/categories/playstation-5-konsoles-292" />
+<meta property="og:title" content="PlayStation 5 konsolės - GAME ROOM" />
 <meta property="og:site_name" content="GAME ROOM" />
-<meta property="og:description" content=" Sony Interactive Entertainment, " />
-<meta property="og:image" content="https://gameroom.lt/32806-large_default/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" />
-<meta property="product:pretax_price:amount" content="660.33" />
-<meta property="product:pretax_price:currency" content="EUR" />
-<meta property="product:price:amount" content="799" />
-<meta property="product:price:currency" content="EUR" />
-<meta property="product:weight:value" content="1.000000" />
-<meta property="product:weight:units" content="kg" />
-
-<meta property="og:url" content="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882" />
-<meta property="og:title" content="Pirkti PlayStation 5 žaidimų konsolė 825GB (PS5)" />
-<meta property="og:site_name" content="GAME ROOM" />
-<meta property="og:description" content=" Sony Interactive Entertainment, " />
+<meta property="og:description" content="Ideali vieta visiems &#382;aid&#279;jams. &#302;sigyk &#382;aidimus, technik&#261;, kitus gamingo aksesuarus." />
 <meta property="fb:app_id" content="1643941069036817" />
 
 
-    <meta property="og:type" content="product" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://gameroom.lt/modules/icsocialmetatags/views/img/main_image.jpg" />
 
-            <meta property="og:image" content="https://gameroom.lt/32806/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" />
-    
 <div class="cookie-block" id="cookieBlock">
 	<div class="container">
 		<div class="row">
@@ -108,13 +93,13 @@
         
     <link rel="manifest" href="/modules/rg_pushnotifications/manifest.json">
 
-<link rel="canonical" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882">
-<link rel="alternate" href="https://gameroom.lt/en/playstation-5-consoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4882" hreflang="en-us">
-<link rel="alternate" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882" hreflang="lt-lt">
-<link rel="alternate" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882" hreflang="x-default">
-<link rel="alternate" href="https://gameroom.lt/lv/sony-playstation/konsoles/playstation-5-konsoles/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana" hreflang="lv-LV">
-<link rel="alternate" href="https://gameroom.lt/et/sony-playstation/konsoles/playstation-5-konsoles/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana" hreflang="et-EE">
-<link rel="alternate" href="https://gameroom.lt/ru/sony-playstation/konsoles/playstation-5-konsoles/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana" hreflang="ru-RU">
+<link rel="canonical" href="https://gameroom.lt/lt/categories/playstation-5-konsoles-292">
+<link rel="alternate" href="https://gameroom.lt/en/categories/playstation-5-consoles-292" hreflang="en-us">
+<link rel="alternate" href="https://gameroom.lt/lt/categories/playstation-5-konsoles-292" hreflang="lt-lt">
+<link rel="alternate" href="https://gameroom.lt/lt/categories/playstation-5-konsoles-292" hreflang="x-default">
+<link rel="alternate" href="https://gameroom.lt/lv/playstation-5-konsoles" hreflang="lv-LV">
+<link rel="alternate" href="https://gameroom.lt/et/playstation-5-konsoles" hreflang="et-EE">
+<link rel="alternate" href="https://gameroom.lt/ru/playstation-5-konsoles" hreflang="ru-RU">
 
 		<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic,900,900italic,100,100italic,100' rel='stylesheet' type='text/css' />
 		<link href='https://fonts.googleapis.com/css?family=Hind:600,300,700,400,500' rel='stylesheet' type='text/css'>
@@ -126,7 +111,7 @@
 <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 		<![endif]-->
 	</head>
-	<body id="product" class="product product-4882 product-playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana category-292 category-playstation-5-konsoles show-left-column hide-right-column lang_lt">
+	<body id="category" class="category category-292 category-playstation-5-konsoles show-left-column hide-right-column lang_lt">
 
 						
 		<div id="page">
@@ -155,7 +140,7 @@
 					<div id="languages-block-top" class="languages-block">
 						<ul id="first-languages" class="languages-block_ul">
 															<li >
-																																				<a href="https://gameroom.lt/en/playstation-5-consoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4882" title="English (English)" rel="alternate" hreflang="en">
+																																				<a href="https://gameroom.lt/en/categories/playstation-5-consoles-292" title="English (English)" rel="alternate" hreflang="en">
 																											
 										<span>
 											English
@@ -3021,213 +3006,109 @@
 							<div id="content" class="row">
 							
 
-<div class="detail-style1">
-				
-				        			<div class="product-info">
-<div class="primary_block row" itemscope itemtype="https://schema.org/Product">
-	<meta itemprop="url" content="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882">
+	     
+    <div class="categories clearfix">
+    	    </div>
+    
+    
+        
+    <!-- Subcategories -->
 
-					<div class="container">
-				<div class="top-hr"></div>
-			</div>
-						
-		<div class="product-header">
-			<div class="product-top-row">
-				
+        <div class="product-list-header">
+            
 <!-- Breadcrumb -->
 <div class="breadcrumb clearfix">
 	<a class="home" href="https://gameroom.lt/" title="Grįžti į pagrindinį puslapį">Pagrindinis</a>
 				<span class="navigation-pipe">&gt;</span>
-					<span class="navigation_page"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://gameroom.lt/lt/categories/sony-playstation-12" title="Sony PlayStation " ><span itemprop="title">Sony PlayStation </span></a></span><span class="navigation-pipe">></span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://gameroom.lt/lt/categories/konsoles-14" title="Konsolės" ><span itemprop="title">Konsolės</span></a></span><span class="navigation-pipe">></span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://gameroom.lt/lt/categories/playstation-5-konsoles-292" title="PlayStation 5 konsolės" ><span itemprop="title">PlayStation 5 konsolės</span></a></span><span class="navigation-pipe">></span>PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana</span>
+					<span class="navigation_page"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://gameroom.lt/lt/categories/sony-playstation-12" title="Sony PlayStation " ><span itemprop="title">Sony PlayStation </span></a></span><span class="navigation-pipe">></span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://gameroom.lt/lt/categories/konsoles-14" title="Konsolės" ><span itemprop="title">Konsolės</span></a></span><span class="navigation-pipe">></span>PlayStation 5 konsolės</span>
 			</div>
 <!-- /Breadcrumb -->
-
-									<a class="lnk_img manufacturer-link" href="https://gameroom.lt/lt/manufacturers/sony-interactive-entertainment-3" title="Sony Interactive Entertainment" >
-						<img class="img-responsive" src="https://gameroom.lt/img/m/3.jpg" alt="" />
-					</a>
-							</div>
-
-			<div class="header-elements">
-				<div class="product-page-title">
-					<span class="product-name-title" itemprop="name">PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana</span>
-
-                                            <div class="product-label new-box">
-                            <span class="new-label">Nauja</span>
-                        </div>
-                    
-					
-					
-									</div>
-
-									<div class="like-and-share">
-							<p class="socialsharing_product list-inline no-print">
-				
-			
-
-			<div class="fb-like" data-type="facebook" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
-
-		
-				
-			</p>
-					</div>
-				
-			</div>
-		</div>
-
-		<div class="row center-right-blocks">
-
-		</div>
-
-		<!-- left infos-->
-		<div class="pb-left-column col-xs-12 col-sm-12 col-md-7 col-lg-7">
-			<!-- product img-->
-			<div id="image-block" class="product_mobile">
-                <div class="cover-img-block col-md-5 col-sm-5">
-                    <div id="image-block" class="clearfix">
-                                                    <span id="view_full_size">
-								<img itemprop="image" src="https://gameroom.lt/32806/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana" alt="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana"/>
-							</span>
-                                            </div> <!-- end image-block -->
-                </div><br>
-															<span id="slick_view_image">
-																																																<img id="32807" src="https://gameroom.lt/32807/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
-																																									<img id="32802" src="https://gameroom.lt/32802/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
-																																									<img id="32801" src="https://gameroom.lt/32801/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
-																																									<img id="32800" src="https://gameroom.lt/32800/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
-																																									<img id="32799" src="https://gameroom.lt/32799/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
-																																									<img id="32798" src="https://gameroom.lt/32798/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
-																					</span>
-												</div>
-			<div class="row full_view_images">
-								<div class="col-lg-12 col-md-12 col-sm-12 html-box-gallery">
-                    
-
-<div style="display: block; margin: 0px auto; position: relative; max-width: 100%; width: 480px; height: 270px;" class="html5gallery" data-onchange="onSlideChange" data-onthumbclick="onThumbClick" data-skin="gallery" data-autoplayvideo="false" data-responsive="true" data-resizemode="fill" data-html5player="true"
-     data-autoslide="false"  data-width="480" data-height="270"  data-effect="fadeout" data-slideshowinterval="8000"
-     data-shownumbering="true" data-carouselmargin="11" data-thumbgap="8" data-thumbmargin="0" data-thumbwidth="156" data-thumbheight="88" data-slideshadow="true" data-thumbshadow="false"
-     data-showtitle="false" data-thumbshowtitle="false" data-showtimer="false" data-padding="0"
-data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="false"
->
-    <!-- Add images to Gallery -->
-
-
-
-
-                    <a href="https://gameroom.lt/32807/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg">
-            <img src="https://gameroom.lt/32807/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
-        </a>
-                    <a href="https://gameroom.lt/32802/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg">
-            <img src="https://gameroom.lt/32802/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
-        </a>
-                                        <a href="https://youtu.be/RkC0l4iekYo"><img src="https://img.youtube.com/vi/RkC0l4iekYo/mqdefault.jpg"></a>
-                            <a href="https://gameroom.lt/32801/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg">
-            <img src="https://gameroom.lt/32801/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
-        </a>
-                                        <a href="https://youtu.be/SebzB8W3bVU"><img src="https://img.youtube.com/vi/SebzB8W3bVU/mqdefault.jpg"></a>
-                            <a href="https://gameroom.lt/32800/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg">
-            <img src="https://gameroom.lt/32800/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
-        </a>
-                    <a href="https://gameroom.lt/32799/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg">
-            <img src="https://gameroom.lt/32799/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
-        </a>
-                    <a href="https://gameroom.lt/32798/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg">
-            <img src="https://gameroom.lt/32798/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
-        </a>
-    
-
-                            
-
-
-
-
-</div>
-				</div>
-			</div>
-		</div>
-
-                    <!-- end left infos-->
-<!-- pb-right-column-->
-<div class="pb-right-column col-xs-12 col-sm-12 col-md-5 col-lg-5">
-    
-
-    
-    
-    
-                    
-        
-        <div class="row block-reassurance">
-
-            
-
-
-                            <div class="product-delivery">
-                    <span class="reassurance-icon"><i class="fal fa-truck"></i></span>
-                    <span  class="reassurance-text">Pristatymas per <span class="reassurance-number">1-2 d.d.</span></span>
-                </div>
-            
-
-
-            <div class="product-back">
-                <span class="reassurance-icon"><i class="fal fa-shield-check"></i></span>
-                <span class="reassurance-text"> <span class="reassurance-number">Saugus</span> atsiskaitymas</span>
-            </div>
         </div>
 
-
-        <div class="content_prices col-lg-12 col-sm-4 clearfix">
-            <div class="panel-line">
-                <div class="bcontent">
-                                            <!-- prices -->
-
-                        <div class="row">
-                            <div class="price">
-                                                                    <div class=" col-md-12  item-price-left">
-                                        <span class="our_price_display" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
-                                            <div id="our_price_display" class="price" itemprop="price" content="799.000001">799,00 €</div><div class="price-without-tax" itemprop="price">be PVM: 660,33 €</div><meta itemprop="priceCurrency" content="EUR" />                                        </span>
-                                    </div>
-                                
-                                                            </div>
-                        </div> <!-- end prices -->
-                                                                                             
-                    
-                    
-                </div></div>
-        </div> <!-- end content_prices -->
-    
-            <div id="short_description_block">
-                            <div id="short_description_content" class="rte align_justify" itemprop="description"><p><strong><span><span style="text-decoration:underline;"><span style="color:#7cd320;text-decoration:underline;">PREKĖS PAPILDYMAS NUMATOMAS GRUODŽIO 13-16d.</span></span></span></strong></p></div>
-            
-                            <p class="buttons_bottom_block">
-                    <a href="javascript:{}" class="button">
-                        Plačiau
-                    </a>
-                </p>
-                        <!---->
-        </div> <!-- end short_description_block -->
+                    <div id="subcategories" class="cat-12">
+                <div class="subcategory-heading pull-left">  Sony PlayStation </div>
+                            <ul class="links">
+                                            <li>
+                            <a class="subcategory-name " href="https://gameroom.lt/lt/categories/black-friday-184">Black Friday</a>
+                        </li>
+                                            <li>
+                            <a class="subcategory-name " href="https://gameroom.lt/lt/categories/preorder-59">Preorder</a>
+                        </li>
+                                            <li>
+                            <a class="subcategory-name " href="https://gameroom.lt/lt/categories/ps4-zaidimai-13">PS4 žaidimai</a>
+                        </li>
+                                            <li>
+                            <a class="subcategory-name " href="https://gameroom.lt/lt/categories/ps5-zaidimai-316">PS5 žaidimai</a>
+                        </li>
+                                            <li>
+                            <a class="subcategory-name " href="https://gameroom.lt/lt/categories/konsoles-14">Konsolės</a>
+                        </li>
+                                            <li>
+                            <a class="subcategory-name " href="https://gameroom.lt/lt/categories/priedai-15">Priedai</a>
+                        </li>
+                                            <li>
+                            <a class="subcategory-name " href="https://gameroom.lt/lt/categories/ispardavimas-60">Išpardavimas</a>
+                        </li>
+                                    </ul>
+                         </div>
         
-    
 
     
-    
+		
+     
+        <div class="row products-filter-block">
+                        <div class="col-lg-9   col-md-8 col-sm-12 col-xs-12">
+                                	
+
+						
+
+	
+	
+		
+	
+
+	
+	
+	
+	<!-- Products list -->
+	
+	<ul id="5b7ff58c597ed708a407f5a1" class="product_list products-block grid  af-product-list style1">
+			
+		
+		
+								<li class="ajax_block_product  col-xs-6 col-sm-4 col-md-3 col-lg-3 first-in-line first-item-of-tablet-line first-item-of-mobile-line" data-col-lg="3" data-col-md="3" data-col-sm="4" data-id-product="4882" data-id-product-attribute="0">
+			<div class="product-block  "
+     itemscope="" itemtype="https://schema.org/Product">
+    <div class="product-container">
+        
+        <div class="product-image-container image">
+            <a class="img product_img_link" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882"
+               title="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana" itemprop="url">
+                
+                <img class="replace-2x img-responsive pts-image"
+                     src="https://gameroom.lt/32806-home_default/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg"
+                     alt="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana"
+                     title="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana"
+                     width="450"
+                     height="463"
+                     itemprop="image" />
+                
+
+                            </a>
 
             
-        <form id="buy_block" class="col-lg-12 col-sm-8 " action="https://gameroom.lt/lt/krepselis" method="post">
-            
-            <p class="hidden">
-                <input type="hidden" name="token" value="417281977cd2a7b69c2cbbd815a3c081" />
-                <input type="hidden" name="id_product" value="4882" id="product_page_product_id" />
-                <input type="hidden" name="add" value="1" />
-                <input type="hidden" name="id_product_attribute" id="idCombination" value="" />
-            </p>
-            <div class="box-info-product">
 
-                                <!-- end product_attributes -->
-                <div class="box-cart-bottom clearfix">
-                    
-                                            
-                        <div class="pcontent">
-                                                            <div class="product-add-block">
-                                    
+                            <a class="product-label new-box" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882">
+                    <span class="new-label">Nauja</span>
+                </a>
+            
+            
+
+            <div class="right" data-link="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882">
+                <div class="action">
+                    <div class="action-btn">
+                        
+                        
 
 
 
@@ -3239,235 +3120,103 @@ data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="fal
 
 
 
-                                </div>
-                                                        <div class="add-to-cart-button-block  unvisible">
-                                <div id="add_to_cart" class="buttons_bottom_block no-print">
-                                    <input type="hidden" name="qty" id="quantity_wanted" class="text" value="1" />
 
-                                    <button type="submit" name="Submit" class="exclusive btn btn-outline-inverse">
-                                        <span>
-                                                                                            <img src="/themes/pf_megashop/img/minibasket.png" alt="" class="add-to-cart" />
-                                                Į krep&scaron;elį
-                                                                                    </span>
-                                    </button>
-                                </div>
-                            </div>
-                                                                                </div>
-                            <div id="product_comments_block_extra" class="no-print col-lg-12 col-sm-4" itemprop="aggregateRating" itemscope
-         itemtype="https://schema.org/AggregateRating">
-                    <div class="comments_note clearfix">
-                
-                <div class="star_content clearfix">
-                    <div class="star-right">
-                                                                            <div class="star-rate">
-                                <i class="fas fa-star"></i>
-                        </div>
-                                                                                                        <div class="star-rate">
-                                <i class="fas fa-star"></i>
-                        </div>
-                                                                                                        <div class="star-rate">
-                                <i class="fas fa-star"></i>
-                        </div>
-                                                                                                        <div class="star-rate">
-                                <i class="fas fa-star"></i>
-                        </div>
-                                                                                                        <div class="star-rate">
-                                <i class="fas fa-star"></i>
-                        </div>
-                                                    
-                        <h4>5.0/5</h4>
-                    </div>
-                    <meta itemprop="worstRating" content="0" />
-                    <meta itemprop="ratingValue"
-                          content="5" />
-                    <meta itemprop="bestRating" content="5" />
+
+                                            </div>
                 </div>
             </div>
-            <!-- .comments_note -->
-        
+        </div>
+        <div class="product-meta">
+            <div class="left">
+                
+                    <div class="row product_name_block">
+                            <h3 class="name search_product_name " itemprop="name">
+                                                                <a href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882" title="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana"
+                                   itemprop="url">
+                                    PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana
+                                                                    </a>
+                            </h3>
+                                            </div>
+                
+                    
+                        
+                        
+                           
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                                        <div class="comments_note">
+        <div class="star_content clearfix">
+            
+                
+                    
+                        
+                    
+                        
+                    
+                
+            
+            <div class="comment-stars">
+                                                            <div class="star-rate">
+                            <i class="fas fa-star"></i>
+                        </div>
+                                                                                <div class="star-rate">
+                            <i class="fas fa-star"></i>
+                        </div>
+                                                                                <div class="star-rate">
+                            <i class="fas fa-star"></i>
+                        </div>
+                                                                                <div class="star-rate">
+                            <i class="fas fa-star"></i>
+                        </div>
+                                                                                <div class="star-rate">
+                            <i class="fas fa-star"></i>
+                        </div>
+                                                </div>
+        </div>
         
     </div>
-<!-- /Module ProductComments -->
-
-                                                                                </div> 
-                <div class="clearfix"></div>
 
                 
-            </div> 
-        </form>
-        
-    <!-- availability or doesntExist -->
-    
-    
-    <div id="availability_date" style="display: none;">
-        <span id="availability_date_label">Bus prekyboje:</span>
-        <span id="availability_date_value">2020-12-14</span>
-    </div>
-    <!-- Out of stock hook -->
-    <div id="oosHook">
-        
-    </div>
+                
 
-    
-</div>
-
-
-        
-		<div class="pb-left-column col-xs-12 ">
-			<div class="tabs-info">
-				<div class="tab-nav">
-					<ul class="nav nav-tabs">
-                        <li><a href="#producttab-description" data-toggle="tab"><span>Plačiau</span></a></li>                        <li><a href="#producttab-datasheet" data-toggle="tab"><span>Specifikacija</span></a></li>                        
+                <div class="product-flags">
+                                                                                    
+                    
                         
-
-                        							<li><li><a href="#producttab-comments" data-toggle="tab"><span>Komentarai</span></a></li></li>
-                        					</ul>
-				</div>
-				<!-- Tab panes -->
-				<div class="tab-content">
-                    						<!-- More info -->
-						<div id="producttab-description" class="page-product-box tab-pane">
-							<!-- <h3 class="page-product-heading">Apie prekę</h3> -->
-							<!-- full description -->
-							<div  class="rte"><p><img src="https://gameroom.lt/img/p/3/2/8/0/7/32807.jpg?time=1605958727174" width="1570" height="998" alt="32807.jpg?time=1605958727174" /></p>
-<p><img src="https://gameroom.lt/img/cms/PS5/ps5%20cover.jpg" alt="" width="1600" height="6544" /></p></div>
-						</div>
-						<!--end  More info -->
                     
-                    						<!-- Data sheet -->
-						<div id="producttab-datasheet" class="page-product-box tab-pane">
-							<!-- <h3 class="page-product-heading">Duomenys</h3> -->
-							<table class="table-data-sheet">
-								                                									<tr class="odd">
-                                        											<td>HDD</td>
-											<td>SDD</td>
-                                        									</tr>
-                                									<tr class="even">
-                                        											<td>GARANTIJA</td>
-											<td>Fiziniams 24mėn / Juridinams 12mėn</td>
-                                        									</tr>
-                                							</table>
-						</div>
-						<!--end Data sheet -->
-                    
-					<!--end HOOK_PRODUCT_TAB -->
-                    
-                    						<div class="page-product-box tab-pane" id="producttab-custom">
-							<div class="tab-inner">
-                                
-							</div>
-						</div>
-                                                                <div id="producttab-comments" class="comments-tab tab-pane">
-    <div class="alert alert-success" id="reviewStatusTop"></div>
-
-    <div id="commentsBlock">
-                                                <div class="comment" itemprop="review" itemscope itemtype="https://schema.org/Review">
-                    <div class="comment_author">
-                        <div class="comment_author_infos">
-                                                            <img src="https://gameroom.lt/img/flags/lt.png" alt="">
-                                                        <span class="author_name" itemprop="author">Linas L</span>
-                            <div class="star_content clearfix" itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
-                                                                                                            <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                    <meta itemprop="worstRating" content="0" />
-                                <meta itemprop="ratingValue" content="5" />
-                                <meta itemprop="bestRating" content="5" />
-                            </div>
-                            
-                        </div>
-                    </div>
-
-                    <div class="comment_details">
-                        <p itemprop="reviewBody">Negalima Sergejau rezervuot is anksto kol nera "prekyboj", visiem vienodas sansas isigyt kai tik paleis pirkima situ komplektu</p>
-                        
-                    </div>
                 </div>
-                                                            <div class="comment" itemprop="review" itemscope itemtype="https://schema.org/Review">
-                    <div class="comment_author">
-                        <div class="comment_author_infos">
-                                                            <img src="https://gameroom.lt/img/flags/lt.png" alt="">
-                                                        <span class="author_name" itemprop="author">Sergejus R</span>
-                            <div class="star_content clearfix" itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
-                                                                                                            <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                    <meta itemprop="worstRating" content="0" />
-                                <meta itemprop="ratingValue" content="5" />
-                                <meta itemprop="bestRating" content="5" />
-                            </div>
+
+                                    <div itemprop="offers" itemscope="" itemtype="https://schema.org/Offer" class="content_price price">
+                                                    <div class="row">
+                                <div class="item-price-left">
+                                    
+
+                                    <span itemprop="price"
+                                          class="product-price ">
+										  799,00 €                                    </span>
+                                </div>
+                                                            </div>
+                            <meta itemprop="priceCurrency" content="0" />
                             
-                        </div>
-                    </div>
-
-                    <div class="comment_details">
-                        <p itemprop="reviewBody">Sveiki, domina būtent šis variantas, nes žiūriu, kad artimiusiu metu kitų galimybių nenusimato. Ar tikrai gausit gruodį ir ar būtu galimybė iš anksto rezervuoti, jeigu gavimas tikrai nusimato? </p>
-                        
-                    </div>
-                </div>
-                        
-    </div>
-
-            <p class="alert alert-warning">
-            Norėdami komentuoti, turite būti <a href="javascript:void(0);" id="openSignIn">prisijungę.</a>  
-        </p>
-    </div>
-
-
-                    
-				</div>
-			</div>
+                            
+                                            </div>
+                            </div>
         </div>
-
-        
-		<!-- end left infos-->
-		<!-- pb-right-column-->
-
-				<!-- rows end-->
-	</div>
-
-
-		<!-- end pb-right-column-->
-	 <!-- end primary_block -->
-	</div>
-
-		
-	</div>
-		<!--HOOK_PRODUCT_TAB -->
-
-
-		
-
-		<!-- description & features -->
-					
-									<!-- itemscope product wrapper -->
- 
+    </div>
 </div>
-  			
-							</div>
-						</div><!-- #center_column -->
-												
-							</div><!-- #columns -->
-					</div>
 
-									</section ><!-- .columns-container -->
-					<!-- Bottom-->
-				<div id="bottom">
-					<div class="container"><div class="row">
-													
-<!-- MODULE Block ptsblockrelatedproducts -->
-<div id="relatedproducts" class="block products_block exclusive ptsblockrelatedproducts carousel">
-		<h4 class="title_block"> Panašios prekės</h4>
-		<div class="block_content">
-							<div class="boxcarousel products_block slide products-rows " id="ptsblockrelatedproducts">
-	<div class="carousel-inner" >
-        <ul id="5b7ff58c597ed708a407f5a1" class="product_list grid row products-block  item style1">
-                    <li class="ajax_block_product col-xs-12 col-sm-12 col-md-3 col-lg-3" data-id-product="4299" data-id-product-attribute="0">
-                <div class="product-block oos "
+		</li>
+			
+		
+		
+								<li class="ajax_block_product  col-xs-6 col-sm-4 col-md-3 col-lg-3" data-col-lg="3" data-col-md="3" data-col-sm="4" data-id-product="4299" data-id-product-attribute="0">
+			<div class="product-block oos "
      itemscope="" itemtype="https://schema.org/Product">
     <div class="product-container">
         
@@ -3537,6 +3286,38 @@ data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="fal
                     
                 
                 
+                                        <div class="comments_note">
+        <div class="star_content clearfix">
+            
+                
+                    
+                        
+                    
+                        
+                    
+                
+            
+            <div class="comment-stars">
+                                                            <div class="star-rate">
+                            <i class="fas fa-star"></i>
+                        </div>
+                                                                                <div class="star-rate">
+                            <i class="fas fa-star"></i>
+                        </div>
+                                                                                <div class="star-rate">
+                            <i class="fas fa-star"></i>
+                        </div>
+                                                                                <div class="star-rate">
+                            <i class="fas fa-star"></i>
+                        </div>
+                                                                                <div class="star-rate">
+                            <i class="fas fa-star"></i>
+                        </div>
+                                                </div>
+        </div>
+        
+    </div>
+
                 
                 
 
@@ -3566,20 +3347,825 @@ data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="fal
     </div>
 </div>
 
-            </li>
-                </ul>
+		</li>
+			
+		
+		
+								<li class="ajax_block_product  col-xs-6 col-sm-4 col-md-3 col-lg-3 last-item-of-mobile-line" data-col-lg="3" data-col-md="3" data-col-sm="4" data-id-product="4872" data-id-product-attribute="0">
+			<div class="product-block  "
+     itemscope="" itemtype="https://schema.org/Product">
+    <div class="product-container">
+        
+        <div class="product-image-container image">
+            <a class="img product_img_link" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4872"
+               title="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack (Papildomas valdiklis + 3 žaidimai) +Dovana" itemprop="url">
+                
+                <img class="replace-2x img-responsive pts-image"
+                     src="https://gameroom.lt/32739-home_default/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg"
+                     alt="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack (Papildomas valdiklis + 3 žaidimai) +Dovana"
+                     title="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack (Papildomas valdiklis + 3 žaidimai) +Dovana"
+                     width="450"
+                     height="463"
+                     itemprop="image" />
+                
+
+                            </a>
+
+            
+
+                            <a class="product-label new-box" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4872">
+                    <span class="new-label">Nauja</span>
+                </a>
+            
+            
+
+            <div class="right" data-link="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4872">
+                <div class="action">
+                    <div class="action-btn">
+                        
+                        
+
+
+
+<div class="icwishlist-button-block">
+    <a class="icwishlist-button btn btn-highlighted" rel="nofollow" data-id-product="4872" title="Įsiminti">
+        <i class="fas fa-heart"></i> <span class="wish-text">Noriu!</span>
+    </a>
+</div>
+
+
+
+
+
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <div class="product-meta">
+            <div class="left">
+                
+                    <div class="row product_name_block">
+                            <h3 class="name search_product_name " itemprop="name">
+                                                                <a href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4872" title="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack (Papildomas valdiklis + 3 žaidimai) +Dovana"
+                                   itemprop="url">
+                                    PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack (Papildomas valdiklis + 3 &#382;aidimai) +Dovana
+                                                                    </a>
+                            </h3>
+                                            </div>
+                
+                    
+                        
+                        
+                           
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                                    
+                
+                
+
+                <div class="product-flags">
+                                                                                    
+                    
+                        
+                    
+                </div>
+
+                                    <div itemprop="offers" itemscope="" itemtype="https://schema.org/Offer" class="content_price price">
+                                                    <div class="row">
+                                <div class="item-price-left">
+                                    
+
+                                    <span itemprop="price"
+                                          class="product-price ">
+										  779,00 €                                    </span>
+                                </div>
+                                                            </div>
+                            <meta itemprop="priceCurrency" content="0" />
+                            
+                            
+                                            </div>
+                            </div>
+        </div>
+    </div>
+</div>
+
+		</li>
+			
+		
+		
+								<li class="ajax_block_product  col-xs-6 col-sm-4 col-md-3 col-lg-3 last-in-line last-item-of-tablet-line first-item-of-mobile-line last-mobile-line" data-col-lg="3" data-col-md="3" data-col-sm="4" data-id-product="4300" data-id-product-attribute="0">
+			<div class="product-block oos "
+     itemscope="" itemtype="https://schema.org/Product">
+    <div class="product-container">
+        
+        <div class="product-image-container image">
+            <a class="img product_img_link" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-digital-edition-zaidimu-konsole-825gb-ps5-4300"
+               title="PlayStation 5 Digital Edition žaidimų konsolė 825GB (PS5)" itemprop="url">
+                
+                <img class="replace-2x img-responsive pts-image"
+                     src="https://gameroom.lt/27802-home_default/playstation-5-digital-edition-zaidimu-konsole-825gb-ps5.jpg"
+                     alt="PlayStation 5 Digital Edition žaidimų konsolė 825GB (PS5)"
+                     title="PlayStation 5 Digital Edition žaidimų konsolė 825GB (PS5)"
+                     width="450"
+                     height="463"
+                     itemprop="image" />
+                
+
+                            </a>
+
+            
+
+            
+            
+
+            <div class="right" data-link="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-digital-edition-zaidimu-konsole-825gb-ps5-4300">
+                <div class="action">
+                    <div class="action-btn">
+                        
+                        
+
+
+
+<div class="icwishlist-button-block">
+    <a class="icwishlist-button btn btn-highlighted" rel="nofollow" data-id-product="4300" title="Įsiminti">
+        <i class="fas fa-heart"></i> <span class="wish-text">Noriu!</span>
+    </a>
+</div>
+
+
+
+
+
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <div class="product-meta">
+            <div class="left">
+                
+                    <div class="row product_name_block">
+                            <h3 class="name search_product_name " itemprop="name">
+                                                                <a href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-digital-edition-zaidimu-konsole-825gb-ps5-4300" title="PlayStation 5 Digital Edition žaidimų konsolė 825GB (PS5)"
+                                   itemprop="url">
+                                    PlayStation 5 Digital Edition &#382;aidim&#371; konsol&#279; 825GB (PS5)
+                                                                    </a>
+                            </h3>
+                                            </div>
+                
+                    
+                        
+                        
+                           
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                                    
+                
+                
+
+                <div class="product-flags">
+                                                                                    
+                    
+                        
+                    
+                </div>
+
+                                    <div itemprop="offers" itemscope="" itemtype="https://schema.org/Offer" class="content_price price">
+                                                    <div class="row">
+                                <div class="item-price-left">
+                                    
+
+                                    <span itemprop="price"
+                                          class="product-price ">
+										  449,00 €                                    </span>
+                                </div>
+                                                            </div>
+                            <meta itemprop="priceCurrency" content="0" />
+                            
+                            
+                                            </div>
+                            </div>
+        </div>
+    </div>
+</div>
+
+		</li>
+			
+		
+		
+								<li class="ajax_block_product  col-xs-6 col-sm-4 col-md-3 col-lg-3 first-in-line last-line first-item-of-tablet-line last-mobile-line" data-col-lg="3" data-col-md="3" data-col-sm="4" data-id-product="4883" data-id-product-attribute="0">
+			<div class="product-block oos "
+     itemscope="" itemtype="https://schema.org/Product">
+    <div class="product-container">
+        
+        <div class="product-image-container image">
+            <a class="img product_img_link" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4883"
+               title="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 3 (Papildomas valdiklis + 3 žaidimai) +Dovana" itemprop="url">
+                
+                <img class="replace-2x img-responsive pts-image"
+                     src="https://gameroom.lt/32816-home_default/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg"
+                     alt="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 3 (Papildomas valdiklis + 3 žaidimai) +Dovana"
+                     title="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 3 (Papildomas valdiklis + 3 žaidimai) +Dovana"
+                     width="450"
+                     height="463"
+                     itemprop="image" />
+                
+
+                            </a>
+
+            
+
+                            <a class="product-label new-box" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4883">
+                    <span class="new-label">Nauja</span>
+                </a>
+            
+            
+
+            <div class="right" data-link="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4883">
+                <div class="action">
+                    <div class="action-btn">
+                        
+                        
+
+
+
+<div class="icwishlist-button-block">
+    <a class="icwishlist-button btn btn-highlighted" rel="nofollow" data-id-product="4883" title="Įsiminti">
+        <i class="fas fa-heart"></i> <span class="wish-text">Noriu!</span>
+    </a>
+</div>
+
+
+
+
+
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <div class="product-meta">
+            <div class="left">
+                
+                    <div class="row product_name_block">
+                            <h3 class="name search_product_name " itemprop="name">
+                                                                <a href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4883" title="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 3 (Papildomas valdiklis + 3 žaidimai) +Dovana"
+                                   itemprop="url">
+                                    PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 3 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana
+                                                                    </a>
+                            </h3>
+                                            </div>
+                
+                    
+                        
+                        
+                           
+                            
+                            
+                            
+                            
+                        
+                    
+                
+                
+                                    
+                
+                
+
+                <div class="product-flags">
+                                                                                    
+                    
+                        
+                    
+                </div>
+
+                                    <div itemprop="offers" itemscope="" itemtype="https://schema.org/Offer" class="content_price price">
+                                                    <div class="row">
+                                <div class="item-price-left">
+                                    
+
+                                    <span itemprop="price"
+                                          class="product-price ">
+										  819,00 €                                    </span>
+                                </div>
+                                                            </div>
+                            <meta itemprop="priceCurrency" content="0" />
+                            
+                            
+                                            </div>
+                            </div>
+        </div>
+    </div>
+</div>
+
+		</li>
+		</ul>
+
+
+
+
+
+            </div>
+                        <div class="col-lg-3 col-md-4 col-sm-3 col-xs-3">
+                <div class="pagi-bar">
+                    
+
+
+<form id="productsSortForm" action="https://gameroom.lt/lt/categories/playstation-5-konsoles-292" class="productsSortForm ">
+		<div class="select selector1 ">
+        <label for="selectProductSort">Rū&scaron;iuoti pagal</label>
+		<select id="selectProductSort" class="selectProductSort form-control">
+			
+			<option value="position:desc" selected="selected">Populiariausios</option>
+			<option value="release_date:asc" >I&scaron;leidimo data</option>
+			<option value="date_add:asc" >Seniausios</option>
+			<option value="date_add:desc" >Naujausios</option>
+							<option value="price:asc" >Kaina: 1-100</option>
+				<option value="price:desc" >Kaina: 100-1</option>
+						<option value="name:asc" >Pavadinimas: A-Z</option>
+			<option value="name:desc" >Pavadinimas: Z-A</option>
+							<option value="quantity:desc" >Yra prekyboje</option>
+						
+		</select>
 	</div>
-</div>
+</form>
+<!-- /Sort products -->
+			
+	
+                    							<!-- nbr product/page -->
+
+		<form action="https://gameroom.lt/lt/categories/playstation-5-konsoles-292" method="get" class="nbrItemPage">
+			<div class="clearfix selector1">
+				
+				<label for="nb_item">
+					Rodyti
+				</label>
+
+			
+
+				
 
 
+                <select name="n" id="nb_item" class="form-control">
+																
+							<option value="12" selected="selected">12</option>
+						
+																	
+							<option value="24" >24</option>
+						
+																	
+							<option value="48" >48</option>
+						
+											            	</select>
 
 
-
+				<div ng-app="myapp">
+					<div ng-controller="NBPerPageController as vm">
+						<rzslider rz-slider-model="vm.priceSlider.value" rz-slider-options="vm.priceSlider.options"></rzslider>
 					</div>
-</div>
-<!-- /MODULE Block ptsblockrelatedproducts -->
+				</div>
 
 
+				
+				
+				
+			</div>
+		</form>
+
+	<!-- /nbr product/page -->
+
+	
+
+
+                </div>
+                 
+
+
+
+
+
+
+
+<div id="amazzing_filter" class="af block displayLeftColumn hide-zero-matches dim-zero-matches">
+    
+    <div class="block_content">
+                    <div class="selectedFilters">
+                <div class="clearAll hidden">
+                    Išvalyti filtrus
+                    <a href="#" class="icon-eraser all" title="Išvalyti visus"></a>
+                </div>
+            </div>
+                <form action="#" id="af_form">
+			<span class="hidden_inputs">
+				<!-- additional template settings -->
+				                    <input type="hidden" id="af_id_manufacturer" name="id_manufacturer" value="0">
+                                    <input type="hidden" id="af_id_supplier" name="id_supplier" value="0">
+                                    <input type="hidden" id="af_page" name="page" value="1">
+                                    <input type="hidden" id="af_nb_items" name="nb_items" value="12">
+                                    <input type="hidden" id="af_nb_days_new" name="nb_days_new" value="10">
+                                    <input type="hidden" id="af_controller_product_ids" name="controller_product_ids" value="">
+                                    <input type="hidden" id="af_current_controller" name="current_controller" value="category">
+                                    <input type="hidden" id="af_page_name" name="page_name" value="category">
+                                    <input type="hidden" id="af_id_parent_cat" name="id_parent_cat" value="292">
+                                    <input type="hidden" id="af_orderBy" name="orderBy" value="position">
+                                    <input type="hidden" id="af_orderWay" name="orderWay" value="asc">
+                                    <input type="hidden" id="af_defaultSorting" name="defaultSorting" value="position:asc">
+                                    <input type="hidden" id="af_pagination_bottom_suffix" name="pagination_bottom_suffix" value="bottom">
+                                    <input type="hidden" id="af_customer_groups" name="customer_groups" value="1">
+                                    <input type="hidden" id="af_hide_right_column" name="hide_right_column" value="1">
+                                    <input type="hidden" id="af_hide_left_column" name="hide_left_column" value="">
+                                    <input type="hidden" id="af_reload_action" name="reload_action" value="1">
+                                    <input type="hidden" id="af_p_type" name="p_type" value="1">
+                                    <input type="hidden" id="af_subcat_products" name="subcat_products" value="1">
+                                    <input type="hidden" id="af_autoscroll" name="autoscroll" value="1">
+                                    <input type="hidden" id="af_count_data" name="count_data" value="1">
+                                    <input type="hidden" id="af_hide_zero_matches" name="hide_zero_matches" value="1">
+                                    <input type="hidden" id="af_dim_zero_matches" name="dim_zero_matches" value="1">
+                                    <input type="hidden" id="af_include_group" name="include_group" value="0">
+                                    <input type="hidden" id="af_include_sorting" name="include_sorting" value="1">
+                                    <input type="hidden" id="af_load_icons" name="load_icons" value="0">
+                                    <input type="hidden" id="af_dec_sep" name="dec_sep" value=".">
+                                    <input type="hidden" id="af_tho_sep" name="tho_sep" value="">
+                                    <input type="hidden" id="af_oos_behaviour" name="oos_behaviour" value="1">
+                                    <input type="hidden" id="af_combinations_stock" name="combinations_stock" value="0">
+                                    <input type="hidden" id="af_combinations_existence" name="combinations_existence" value="0">
+                                    <input type="hidden" id="af_combination_results" name="combination_results" value="0">
+                                    <input type="hidden" id="af_compact_view" name="compact_view" value="1">
+                			</span>
+                                                                                                            <div class="af_filter p clearfix range-filter has-slider" data-trigger="p" data-url="kaina">
+                        <div class="af_subtitle_heading">
+                            <h5 class="af_subtitle">Kaina</h5>
+                        </div>
+                        <div class="af_filter_content">
+                                                            <div class="p_slider af_slider slider" data-url="kaina" data-type="p">
+                                    <div class="slider-bar">
+                                        <div id="p_slider"></div>
+                                    </div>
+                                    <div class="slider-values">
+							<span class="from_display slider_value">
+								<span class="prefix"></span>
+								<span class="value">449</span>
+								<span class="suffix"> €</span>
+								<input type="text" id="p_from" class="input-text" name="sliders[p][from]" value="449" >
+								<input type="hidden" id="p_min" name="sliders[p][min]" value="449" >
+							</span>
+                                        <span class="to_display slider_value">
+								<span class="prefix"></span>
+								<span class="value">819</span>
+								<span class="suffix"> €</span>
+								<input type="text" id="p_to" class="input-text" name="sliders[p][to]" value="819">
+								<input type="hidden" id="p_max"name="sliders[p][max]" value="819">
+							</span>
+                                    </div>
+                                </div>
+                                                                                                                </div>
+                                            </div>
+                                                                                                                            <div class="af_filter f12 clearfix type-1 closed" data-trigger="f12" data-url="isleidimo-data">
+                        <div class="af_subtitle_heading">
+                            <h5 class="af_subtitle">Išleidimo data</h5>
+                        </div>
+                        <div class="af_filter_content">
+                                                                                                                                                                        <ul class="">
+                                                                                                                                                            <li class="item-f-34560">
+                    <label for="f-34560">
+				<span class="checkmark">
+				                    <input type="checkbox" id="f-34560" class="af checkbox" name="f[12][]" value="34560" data-url="2020">
+								</span>
+                        <span class="name">2020</span>
+                        <span class="count">1</span>                                            </label>
+                    
+                </li>
+                    </ul>
+    
+                                                                                        <input type="hidden" name="available_options[f12]" value="34560">
+                                                    </div>
+                                                    <a href="#" class="toggle-cut-off">
+                                <span class="more">išskleisti</span>
+                                <span class="less">sutraukti</span>
+                            </a>
+                                            </div>
+                                                                                                                            <div class="af_filter m clearfix type-3 closed" data-trigger="m" data-url="gamintojai">
+                        <div class="af_subtitle_heading">
+                            <h5 class="af_subtitle">Gamintojai</h5>
+                        </div>
+                        <div class="af_filter_content">
+                                                                                                                                                                                            <select id="selector-m" class="af-select form-control" name="m[]">
+                                    <option value="0" class="first">Nėra filtrų</option>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <option id="m-3" value="3" data-url="sony-interactive-entertainment"  data-text="Sony Interactive Entertainment" class="">
+                                Sony Interactive Entertainment
+                (5)            </option>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                </select>
+                                <div class="dynamic-select-options hidden">
+                                                                <span class="" data-value="150" data-url="11-bit-studios" data-text="11 bit studios" data-id="m-150"></span>
+                                    <span class="" data-value="65" data-url="2k" data-text="2K" data-id="m-65"></span>
+                                    <span class="" data-value="149" data-url="4gamers" data-text="4Gamers" data-id="m-149"></span>
+                                    <span class="" data-value="63" data-url="505-games" data-text="505 Games" data-id="m-63"></span>
+                                    <span class="" data-value="44" data-url="activision" data-text="Activision" data-id="m-44"></span>
+                                    <span class="" data-value="105" data-url="adult-swim-games" data-text="Adult Swim Games" data-id="m-105"></span>
+                                    <span class="" data-value="199" data-url="ak-racing" data-text="AK Racing" data-id="m-199"></span>
+                                    <span class="" data-value="226" data-url="aksys-games" data-text="Aksys Games" data-id="m-226"></span>
+                                    <span class="" data-value="179" data-url="arrozzi" data-text="Arrozzi" data-id="m-179"></span>
+                                    <span class="" data-value="207" data-url="astragon-entertainment" data-text="Astragon Entertainment" data-id="m-207"></span>
+                                    <span class="" data-value="206" data-url="astro" data-text="ASTRO" data-id="m-206"></span>
+                                    <span class="" data-value="31" data-url="asus" data-text="ASUS" data-id="m-31"></span>
+                                    <span class="" data-value="79" data-url="atari-inc" data-text="Atari Inc." data-id="m-79"></span>
+                                    <span class="" data-value="73" data-url="atlus" data-text="ATLUS" data-id="m-73"></span>
+                                    <span class="" data-value="221" data-url="audio-technica" data-text="Audio-Technica" data-id="m-221"></span>
+                                    <span class="" data-value="135" data-url="aukey" data-text="AUKEY" data-id="m-135"></span>
+                                    <span class="" data-value="152" data-url="aula" data-text="AULA" data-id="m-152"></span>
+                                    <span class="" data-value="156" data-url="avalanche-studios" data-text="Avalanche Studios" data-id="m-156"></span>
+                                    <span class="" data-value="222" data-url="badland-games" data-text="BADLanD Games" data-id="m-222"></span>
+                                    <span class="" data-value="16" data-url="bandai-namco-entertainment" data-text="BANDAI NAMCO Entertainment" data-id="m-16"></span>
+                                    <span class="" data-value="219" data-url="baseus" data-text="Baseus" data-id="m-219"></span>
+                                    <span class="" data-value="142" data-url="bend-studios" data-text="Bend Studios" data-id="m-142"></span>
+                                    <span class="" data-value="13" data-url="bethesda-softworks" data-text="Bethesda Softworks" data-id="m-13"></span>
+                                    <span class="" data-value="86" data-url="big-ben" data-text="Big Ben" data-id="m-86"></span>
+                                    <span class="" data-value="147" data-url="big-deez-productions" data-text="Big Deez Productions" data-id="m-147"></span>
+                                    <span class="" data-value="114" data-url="bigmoon" data-text="Bigmoon" data-id="m-114"></span>
+                                    <span class="" data-value="49" data-url="blizzard-entertainment" data-text="Blizzard Entertainment" data-id="m-49"></span>
+                                    <span class="" data-value="218" data-url="blow" data-text="BLOW" data-id="m-218"></span>
+                                    <span class="" data-value="193" data-url="bohemia-interactive" data-text="Bohemia Interactive" data-id="m-193"></span>
+                                    <span class="" data-value="229" data-url="bose" data-text="BOSE" data-id="m-229"></span>
+                                    <span class="" data-value="144" data-url="caged-element" data-text="Caged Element" data-id="m-144"></span>
+                                    <span class="" data-value="124" data-url="canyon" data-text="Canyon" data-id="m-124"></span>
+                                    <span class="" data-value="18" data-url="capcom" data-text="Capcom" data-id="m-18"></span>
+                                    <span class="" data-value="97" data-url="ccp-games" data-text="CCP Games" data-id="m-97"></span>
+                                    <span class="" data-value="68" data-url="cd-projekt-red" data-text="CD projekt red" data-id="m-68"></span>
+                                    <span class="" data-value="78" data-url="chucklefish" data-text="Chucklefish" data-id="m-78"></span>
+                                    <span class="" data-value="74" data-url="ci-games" data-text="CI Games" data-id="m-74"></span>
+                                    <span class="" data-value="146" data-url="climax-studios" data-text="Climax Studios" data-id="m-146"></span>
+                                    <span class="" data-value="57" data-url="codemasters" data-text="Codemasters" data-id="m-57"></span>
+                                    <span class="" data-value="230" data-url="cold-symmetry" data-text="Cold Symmetry" data-id="m-230"></span>
+                                    <span class="" data-value="171" data-url="cooler-master" data-text="Cooler Master" data-id="m-171"></span>
+                                    <span class="" data-value="143" data-url="crave-entertainment" data-text="Crave Entertainment" data-id="m-143"></span>
+                                    <span class="" data-value="100" data-url="crytek-gmbh" data-text="Crytek GmbH" data-id="m-100"></span>
+                                    <span class="" data-value="195" data-url="curve-digital" data-text="Curve Digital" data-id="m-195"></span>
+                                    <span class="" data-value="103" data-url="d-pad-studio" data-text="D-Pad Studio" data-id="m-103"></span>
+                                    <span class="" data-value="239" data-url="daylight-studios-pte-ltd" data-text="Daylight Studios Pte. Ltd." data-id="m-239"></span>
+                                    <span class="" data-value="24" data-url="deep-silver" data-text="Deep Silver" data-id="m-24"></span>
+                                    <span class="" data-value="50" data-url="dice" data-text="DICE" data-id="m-50"></span>
+                                    <span class="" data-value="140" data-url="digital-dreams-entertainment" data-text="Digital Dreams Entertainment" data-id="m-140"></span>
+                                    <span class="" data-value="62" data-url="double-eleven" data-text="Double Eleven" data-id="m-62"></span>
+                                    <span class="" data-value="197" data-url="dreammachines" data-text="DreamMachines" data-id="m-197"></span>
+                                    <span class="" data-value="133" data-url="dxracer" data-text="DXRacer" data-id="m-133"></span>
+                                    <span class="" data-value="19" data-url="ea" data-text="EA" data-id="m-19"></span>
+                                    <span class="" data-value="29" data-url="ea-sports" data-text="EA Sports" data-id="m-29"></span>
+                                    <span class="" data-value="220" data-url="easy-day-studios-pty-ltd" data-text="Easy Day Studios Pty Ltd" data-id="m-220"></span>
+                                    <span class="" data-value="191" data-url="enhance" data-text="Enhance" data-id="m-191"></span>
+                                    <span class="" data-value="122" data-url="epic-games" data-text="Epic Games" data-id="m-122"></span>
+                                    <span class="" data-value="104" data-url="epos-game-studios" data-text="EPOS Game Studios" data-id="m-104"></span>
+                                    <span class="" data-value="217" data-url="esperanza" data-text="Esperanza" data-id="m-217"></span>
+                                    <span class="" data-value="80" data-url="evolution-studios" data-text="Evolution Studios" data-id="m-80"></span>
+                                    <span class="" data-value="170" data-url="exquisite-gaming" data-text="Exquisite Gaming" data-id="m-170"></span>
+                                    <span class="" data-value="202" data-url="farsight-technologies-inc" data-text="FarSight Technologies Inc" data-id="m-202"></span>
+                                    <span class="" data-value="238" data-url="fast-travel-games-ab" data-text="Fast Travel Games AB" data-id="m-238"></span>
+                                    <span class="" data-value="212" data-url="fifine" data-text="FIFINE " data-id="m-212"></span>
+                                    <span class="" data-value="138" data-url="firaxis-games" data-text="Firaxis Games" data-id="m-138"></span>
+                                    <span class="" data-value="116" data-url="first-contact-entertainment" data-text="First Contact Entertainment" data-id="m-116"></span>
+                                    <span class="" data-value="155" data-url="florpad" data-text="Florpad" data-id="m-155"></span>
+                                    <span class="" data-value="10" data-url="focus-home-interactive" data-text="Focus Home Interactive" data-id="m-10"></span>
+                                    <span class="" data-value="69" data-url="fromsoftware-inc" data-text="FromSoftware, Inc." data-id="m-69"></span>
+                                    <span class="" data-value="61" data-url="frontier-developments-plc" data-text="Frontier Developments PLC" data-id="m-61"></span>
+                                    <span class="" data-value="141" data-url="funbox-media" data-text="Funbox Media" data-id="m-141"></span>
+                                    <span class="" data-value="154" data-url="funko" data-text="FUNKO" data-id="m-154"></span>
+                                    <span class="" data-value="125" data-url="fury" data-text="FURY" data-id="m-125"></span>
+                                    <span class="" data-value="41" data-url="gamdias" data-text="Gamdias" data-id="m-41"></span>
+                                    <span class="" data-value="107" data-url="game-freak" data-text="Game Freak" data-id="m-107"></span>
+                                    <span class="" data-value="241" data-url="gamemill-entertainment" data-text="GameMill Entertainment" data-id="m-241"></span>
+                                    <span class="" data-value="102" data-url="gearbox-publishing" data-text="Gearbox Publishing" data-id="m-102"></span>
+                                    <span class="" data-value="153" data-url="gembird" data-text="Gembird" data-id="m-153"></span>
+                                    <span class="" data-value="36" data-url="genesis" data-text="Genesis" data-id="m-36"></span>
+                                    <span class="" data-value="203" data-url="glorious-pc-gaming-race" data-text="Glorious PC Gaming Race" data-id="m-203"></span>
+                                    <span class="" data-value="173" data-url="goobay" data-text="GooBay" data-id="m-173"></span>
+                                    <span class="" data-value="234" data-url="good-loot-puzzle" data-text="Good Loot Puzzle" data-id="m-234"></span>
+                                    <span class="" data-value="158" data-url="grasshopper-manufacture" data-text="Grasshopper Manufacture" data-id="m-158"></span>
+                                    <span class="" data-value="99" data-url="guerrilla-cambridge" data-text="Guerrilla Cambridge" data-id="m-99"></span>
+                                    <span class="" data-value="81" data-url="guerrilla-games" data-text="Guerrilla Games" data-id="m-81"></span>
+                                    <span class="" data-value="52" data-url="gun-media-holdings-inc" data-text="Gun Media Holdings, Inc." data-id="m-52"></span>
+                                    <span class="" data-value="115" data-url="gunfire-games" data-text="Gunfire Games" data-id="m-115"></span>
+                                    <span class="" data-value="139" data-url="haemimont-games" data-text="Haemimont Games" data-id="m-139"></span>
+                                    <span class="" data-value="151" data-url="handygames" data-text="HandyGames" data-id="m-151"></span>
+                                    <span class="" data-value="76" data-url="hello-games" data-text="Hello Games" data-id="m-76"></span>
+                                    <span class="" data-value="121" data-url="hinterland" data-text="Hinterland" data-id="m-121"></span>
+                                    <span class="" data-value="131" data-url="hori" data-text="HORI" data-id="m-131"></span>
+                                    <span class="" data-value="246" data-url="house-house" data-text="House House" data-id="m-246"></span>
+                                    <span class="" data-value="34" data-url="hyperx" data-text="HyperX" data-id="m-34"></span>
+                                    <span class="" data-value="236" data-url="iceberg-interactive" data-text="Iceberg Interactive" data-id="m-236"></span>
+                                    <span class="" data-value="205" data-url="illfonic" data-text="IllFonic" data-id="m-205"></span>
+                                    <span class="" data-value="159" data-url="image-form-games" data-text="Image &amp; Form Games" data-id="m-159"></span>
+                                    <span class="" data-value="137" data-url="imagineer" data-text="Imagineer" data-id="m-137"></span>
+                                    <span class="" data-value="64" data-url="insomniac-games" data-text="Insomniac Games" data-id="m-64"></span>
+                                    <span class="" data-value="178" data-url="inxile-entertainment" data-text="inXile Entertainment" data-id="m-178"></span>
+                                    <span class="" data-value="58" data-url="japan-studio" data-text="JAPAN Studio" data-id="m-58"></span>
+                                    <span class="" data-value="167" data-url="jinx" data-text="Jinx" data-id="m-167"></span>
+                                    <span class="" data-value="23" data-url="kalypso" data-text="Kalypso" data-id="m-23"></span>
+                                    <span class="" data-value="245" data-url="kalypso-media-digital-ltd" data-text="Kalypso Media Digital Ltd." data-id="m-245"></span>
+                                    <span class="" data-value="92" data-url="koei-tecmo-america" data-text="KOEI TECMO America" data-id="m-92"></span>
+                                    <span class="" data-value="6" data-url="koei-tecmo-games" data-text="KOEI TECMO GAMES" data-id="m-6"></span>
+                                    <span class="" data-value="20" data-url="konami-digital-entertainment" data-text="Konami Digital Entertainment" data-id="m-20"></span>
+                                    <span class="" data-value="209" data-url="leadman-games" data-text="Leadman Games" data-id="m-209"></span>
+                                    <span class="" data-value="38" data-url="lg" data-text="LG" data-id="m-38"></span>
+                                    <span class="" data-value="119" data-url="licenced" data-text="Licenced" data-id="m-119"></span>
+                                    <span class="" data-value="35" data-url="logitech-gaming" data-text="Logitech Gaming" data-id="m-35"></span>
+                                    <span class="" data-value="98" data-url="london-studio" data-text="London Studio" data-id="m-98"></span>
+                                    <span class="" data-value="189" data-url="mad-dog-games" data-text="Mad Dog Games" data-id="m-189"></span>
+                                    <span class="" data-value="93" data-url="mad-mind-studio" data-text="Mad Mind Studio" data-id="m-93"></span>
+                                    <span class="" data-value="43" data-url="marvel" data-text="Marvel" data-id="m-43"></span>
+                                    <span class="" data-value="163" data-url="marvelous" data-text="MARVELOUS!" data-id="m-163"></span>
+                                    <span class="" data-value="21" data-url="maximum-games" data-text="Maximum Games" data-id="m-21"></span>
+                                    <span class="" data-value="201" data-url="media-molecule" data-text="Media Molecule" data-id="m-201"></span>
+                                    <span class="" data-value="192" data-url="merge-games" data-text="Merge Games" data-id="m-192"></span>
+                                    <span class="" data-value="210" data-url="meridiem" data-text="Meridiem" data-id="m-210"></span>
+                                    <span class="" data-value="224" data-url="metronomik" data-text="Metronomik" data-id="m-224"></span>
+                                    <span class="" data-value="77" data-url="microids" data-text="Microïds" data-id="m-77"></span>
+                                    <span class="" data-value="39" data-url="microsoft" data-text="Microsoft" data-id="m-39"></span>
+                                    <span class="" data-value="9" data-url="milestone" data-text="Milestone" data-id="m-9"></span>
+                                    <span class="" data-value="37" data-url="modecom" data-text="Modecom" data-id="m-37"></span>
+                                    <span class="" data-value="242" data-url="modus-games" data-text="Modus Games" data-id="m-242"></span>
+                                    <span class="" data-value="30" data-url="mojang-ab" data-text="Mojang AB" data-id="m-30"></span>
+                                    <span class="" data-value="204" data-url="msi" data-text="MSI" data-id="m-204"></span>
+                                    <span class="" data-value="89" data-url="nacon" data-text="Nacon" data-id="m-89"></span>
+                                    <span class="" data-value="108" data-url="namco" data-text="Namco" data-id="m-108"></span>
+                                    <span class="" data-value="185" data-url="nanoleaf" data-text="Nanoleaf" data-id="m-185"></span>
+                                    <span class="" data-value="188" data-url="natsume" data-text="Natsume" data-id="m-188"></span>
+                                    <span class="" data-value="84" data-url="naughty-dog" data-text="Naughty Dog" data-id="m-84"></span>
+                                    <span class="" data-value="111" data-url="nd-cube" data-text="Nd Cube" data-id="m-111"></span>
+                                    <span class="" data-value="216" data-url="next-level-racing" data-text="Next Level Racing" data-id="m-216"></span>
+                                    <span class="" data-value="17" data-url="nicalis" data-text="Nicalis" data-id="m-17"></span>
+                                    <span class="" data-value="196" data-url="nighthawk-interactive" data-text="Nighthawk Interactive" data-id="m-196"></span>
+                                    <span class="" data-value="128" data-url="ninja-theory" data-text="Ninja Theory" data-id="m-128"></span>
+                                    <span class="" data-value="11" data-url="nintendo" data-text="Nintendo" data-id="m-11"></span>
+                                    <span class="" data-value="15" data-url="nippon-ichi-software-inc" data-text="Nippon Ichi Software, Inc." data-id="m-15"></span>
+                                    <span class="" data-value="123" data-url="nis-america" data-text="NIS America" data-id="m-123"></span>
+                                    <span class="" data-value="232" data-url="no-brakes-games" data-text="No Brakes Games" data-id="m-232"></span>
+                                    <span class="" data-value="91" data-url="noname" data-text="Noname" data-id="m-91"></span>
+                                    <span class="" data-value="70" data-url="nordic-games" data-text="Nordic Games" data-id="m-70"></span>
+                                    <span class="" data-value="213" data-url="nosebleed-interactive" data-text="Nosebleed Interactive" data-id="m-213"></span>
+                                    <span class="" data-value="240" data-url="nvizzio-creations" data-text="Nvizzio Creations" data-id="m-240"></span>
+                                    <span class="" data-value="244" data-url="nway" data-text="nWay" data-id="m-244"></span>
+                                    <span class="" data-value="187" data-url="obsidian-entertainment" data-text="Obsidian Entertainment" data-id="m-187"></span>
+                                    <span class="" data-value="168" data-url="oculus-vr" data-text="Oculus VR" data-id="m-168"></span>
+                                    <span class="" data-value="162" data-url="orb" data-text="ORB" data-id="m-162"></span>
+                                    <span class="" data-value="112" data-url="outright-games" data-text="Outright Games" data-id="m-112"></span>
+                                    <span class="" data-value="5" data-url="overkill-software" data-text="OVERKILL SOFTWARE" data-id="m-5"></span>
+                                    <span class="" data-value="227" data-url="owlcat-games" data-text="Owlcat Games" data-id="m-227"></span>
+                                    <span class="" data-value="180" data-url="paladone" data-text="Paladone" data-id="m-180"></span>
+                                    <span class="" data-value="56" data-url="paradox-interactive" data-text="Paradox Interactive" data-id="m-56"></span>
+                                    <span class="" data-value="172" data-url="pdf" data-text="PDF" data-id="m-172"></span>
+                                    <span class="" data-value="184" data-url="pdp" data-text="PDP" data-id="m-184"></span>
+                                    <span class="" data-value="190" data-url="perp-games" data-text="Perp Games" data-id="m-190"></span>
+                                    <span class="" data-value="53" data-url="piranha-bytes" data-text="Piranha Bytes" data-id="m-53"></span>
+                                    <span class="" data-value="176" data-url="planet-entmt" data-text="PLANET ENTMT" data-id="m-176"></span>
+                                    <span class="" data-value="118" data-url="playseat" data-text="PlaySeat" data-id="m-118"></span>
+                                    <span class="" data-value="48" data-url="playtonic-games" data-text="Playtonic Games" data-id="m-48"></span>
+                                    <span class="" data-value="175" data-url="playway" data-text="PlayWay" data-id="m-175"></span>
+                                    <span class="" data-value="237" data-url="pm-studios" data-text="PM Studios" data-id="m-237"></span>
+                                    <span class="" data-value="113" data-url="polyarc" data-text="Polyarc" data-id="m-113"></span>
+                                    <span class="" data-value="54" data-url="polyphony-digital" data-text="Polyphony Digital" data-id="m-54"></span>
+                                    <span class="" data-value="243" data-url="powera" data-text="PowerA" data-id="m-243"></span>
+                                    <span class="" data-value="110" data-url="pqube" data-text="PQube" data-id="m-110"></span>
+                                    <span class="" data-value="85" data-url="pubg" data-text="Pubg" data-id="m-85"></span>
+                                    <span class="" data-value="72" data-url="quantic-dream" data-text="Quantic Dream" data-id="m-72"></span>
+                                    <span class="" data-value="235" data-url="radical-fish-games" data-text="Radical Fish Games" data-id="m-235"></span>
+                                    <span class="" data-value="225" data-url="ragesquid" data-text="RageSquid" data-id="m-225"></span>
+                                    <span class="" data-value="194" data-url="ravenscourt-games" data-text="Ravenscourt Games" data-id="m-194"></span>
+                                    <span class="" data-value="32" data-url="razer" data-text="Razer" data-id="m-32"></span>
+                                    <span class="" data-value="127" data-url="ready-at-dawn" data-text="Ready at Dawn" data-id="m-127"></span>
+                                    <span class="" data-value="228" data-url="realmforge-studios" data-text="Realmforge Studios" data-id="m-228"></span>
+                                    <span class="" data-value="83" data-url="rebellion" data-text="Rebellion" data-id="m-83"></span>
+                                    <span class="" data-value="75" data-url="red-barrels" data-text="Red Barrels" data-id="m-75"></span>
+                                    <span class="" data-value="106" data-url="red-hook-studios" data-text="Red Hook Studios" data-id="m-106"></span>
+                                    <span class="" data-value="223" data-url="remax" data-text="Remax" data-id="m-223"></span>
+                                    <span class="" data-value="174" data-url="rising-star-games" data-text="Rising Star Games" data-id="m-174"></span>
+                                    <span class="" data-value="161" data-url="roccat" data-text="Roccat" data-id="m-161"></span>
+                                    <span class="" data-value="51" data-url="rockstar-games" data-text="Rockstar Games" data-id="m-51"></span>
+                                    <span class="" data-value="87" data-url="samsung" data-text="Samsung" data-id="m-87"></span>
+                                    <span class="" data-value="71" data-url="santa-monica-studio" data-text="Santa Monica Studio" data-id="m-71"></span>
+                                    <span class="" data-value="40" data-url="scs-software" data-text="SCS Software" data-id="m-40"></span>
+                                    <span class="" data-value="88" data-url="seagate" data-text="Seagate" data-id="m-88"></span>
+                                    <span class="" data-value="14" data-url="sega" data-text="SEGA" data-id="m-14"></span>
+                                    <span class="" data-value="129" data-url="sharkoon" data-text="Sharkoon" data-id="m-129"></span>
+                                    <span class="" data-value="46" data-url="sie-london-studio" data-text="SIE London Studio" data-id="m-46"></span>
+                                    <span class="" data-value="177" data-url="skybound-games" data-text="Skybound Games" data-id="m-177"></span>
+                                    <span class="" data-value="215" data-url="slightly-mad-studios" data-text="Slightly Mad Studios" data-id="m-215"></span>
+                                    <span class="" data-value="208" data-url="snail-games-usa" data-text="Snail Games USA" data-id="m-208"></span>
+                                    <span class="" data-value="169" data-url="snk" data-text="SNK" data-id="m-169"></span>
+                                    <span class="" data-value="186" data-url="soedesco" data-text="Soedesco" data-id="m-186"></span>
+                                    <span class="" data-value="101" data-url="sony" data-text="SONY" data-id="m-101"></span>
+                                    <span class="" data-value="3" data-url="sony-interactive-entertainment" data-text="Sony Interactive Entertainment" data-id="m-3"></span>
+                                    <span class="" data-value="145" data-url="spotted-shark-studio" data-text="Spotted Shark Studio" data-id="m-145"></span>
+                                    <span class="" data-value="22" data-url="square-enix" data-text="Square Enix" data-id="m-22"></span>
+                                    <span class="" data-value="33" data-url="steelseries" data-text="Steelseries" data-id="m-33"></span>
+                                    <span class="" data-value="82" data-url="sucker-punch" data-text="Sucker Punch" data-id="m-82"></span>
+                                    <span class="" data-value="136" data-url="sumo-digital" data-text="Sumo Digital" data-id="m-136"></span>
+                                    <span class="" data-value="95" data-url="superhot-team" data-text="SUPERHOT Team" data-id="m-95"></span>
+                                    <span class="" data-value="47" data-url="supermassive-games" data-text="Supermassive Games" data-id="m-47"></span>
+                                    <span class="" data-value="165" data-url="survios" data-text="Survios" data-id="m-165"></span>
+                                    <span class="" data-value="12" data-url="take-two-interactive-software" data-text="Take-Two Interactive Software" data-id="m-12"></span>
+                                    <span class="" data-value="181" data-url="team-cherry" data-text="Team Cherry" data-id="m-181"></span>
+                                    <span class="" data-value="59" data-url="team17" data-text="Team17" data-id="m-59"></span>
+                                    <span class="" data-value="90" data-url="techland-spzoo" data-text="Techland Sp.Zoo" data-id="m-90"></span>
+                                    <span class="" data-value="4" data-url="telltale-games" data-text="Telltale Games" data-id="m-4"></span>
+                                    <span class="" data-value="148" data-url="teyon" data-text="Teyon" data-id="m-148"></span>
+                                    <span class="" data-value="67" data-url="thatgamecompany" data-text="ThatGameCompany" data-id="m-67"></span>
+                                    <span class="" data-value="160" data-url="thq-nordic-gmbh" data-text="THQ Nordic GmbH" data-id="m-160"></span>
+                                    <span class="" data-value="214" data-url="thrustmaster" data-text="Thrustmaster" data-id="m-214"></span>
+                                    <span class="" data-value="166" data-url="tiny-bull-studios" data-text="Tiny Bull Studios" data-id="m-166"></span>
+                                    <span class="" data-value="42" data-url="toys-for-bob" data-text="Toys For Bob" data-id="m-42"></span>
+                                    <span class="" data-value="66" data-url="tripwire-interactive" data-text="Tripwire Interactive" data-id="m-66"></span>
+                                    <span class="" data-value="211" data-url="trust-gaming" data-text="Trust Gaming" data-id="m-211"></span>
+                                    <span class="" data-value="126" data-url="turtle-beach" data-text="Turtle Beach" data-id="m-126"></span>
+                                    <span class="" data-value="157" data-url="u-play-online" data-text="U-Play Online" data-id="m-157"></span>
+                                    <span class="" data-value="2" data-url="ubisoft" data-text="Ubisoft" data-id="m-2"></span>
+                                    <span class="" data-value="45" data-url="united-independent-entertainment" data-text="United Independent Entertainment" data-id="m-45"></span>
+                                    <span class="" data-value="25" data-url="valve" data-text="VALVE" data-id="m-25"></span>
+                                    <span class="" data-value="182" data-url="venom" data-text="Venom" data-id="m-182"></span>
+                                    <span class="" data-value="183" data-url="verbatim" data-text="Verbatim" data-id="m-183"></span>
+                                    <span class="" data-value="94" data-url="vertigo-games" data-text="Vertigo Games" data-id="m-94"></span>
+                                    <span class="" data-value="55" data-url="visual-concepts" data-text="Visual Concepts" data-id="m-55"></span>
+                                    <span class="" data-value="164" data-url="voofoo-studios" data-text="VooFoo Studios" data-id="m-164"></span>
+                                    <span class="" data-value="117" data-url="wargaming" data-text="Wargaming" data-id="m-117"></span>
+                                    <span class="" data-value="8" data-url="warner-bros-interactive-entertainment" data-text="Warner Bros. Interactive Entertainment" data-id="m-8"></span>
+                                    <span class="" data-value="96" data-url="whitemoon-dreams" data-text="WhiteMoon Dreams" data-id="m-96"></span>
+                                    <span class="" data-value="60" data-url="wildcard-properties" data-text="Wildcard Properties" data-id="m-60"></span>
+                                    <span class="" data-value="198" data-url="wired-production" data-text="Wired Production" data-id="m-198"></span>
+                                    <span class="" data-value="132" data-url="xseed-games" data-text="Xseed Games" data-id="m-132"></span>
+                                    <span class="" data-value="200" data-url="yacht-club-games" data-text="Yacht Club Games" data-id="m-200"></span>
+                                    <span class="" data-value="231" data-url="zen-studios" data-text="Zen Studios" data-id="m-231"></span>
+            
+                                </div>
+                                                                                                                        <input type="hidden" name="available_options[m]" value="150,65,149,63,44,105,199,226,179,207,206,31,79,73,221,135,152,156,222,16,219,142,13,86,147,114,49,218,193,229,144,124,18,97,68,78,74,146,57,230,171,143,100,195,103,239,24,50,140,62,197,133,19,29,220,191,122,104,217,80,170,202,238,212,138,116,155,10,69,61,141,154,125,41,107,241,102,153,36,203,173,234,158,99,81,52,115,139,151,76,121,131,246,34,236,205,159,137,64,178,58,167,23,245,92,6,20,209,38,119,35,98,189,93,43,163,21,201,192,210,224,77,39,9,37,242,30,204,89,108,185,188,84,111,216,17,196,128,11,15,123,232,91,70,213,240,244,187,168,162,112,5,227,180,56,172,184,190,53,176,118,48,175,237,113,54,243,110,85,72,235,225,194,32,127,228,83,75,106,223,174,161,51,87,71,40,88,14,129,46,177,215,208,169,186,101,3,145,22,33,82,136,95,47,165,12,181,59,90,4,148,67,160,214,166,42,66,211,126,157,2,45,25,182,183,94,55,164,117,8,96,60,198,132,200,231">
+                                                    </div>
+                                            </div>
+                                                                                                                            <div class="af_filter in_stock clearfix type-1 special hidden" data-trigger="in_stock" data-url="yra-prekyboje">
+                        <div class="af_subtitle_heading hidden">
+                            <h5 class="af_subtitle">Yra prekyboje</h5>
+                        </div>
+                        <div class="af_filter_content">
+                                                                                                                                                                        <ul class="">
+                                                                                                                                                            <li class="item-in_stock no-matches">
+                    <label for="in_stock">
+				<span class="checkmark">
+				                    <input type="checkbox" id="in_stock" class="af checkbox" name="in_stock" value="1" data-url="1">
+								</span>
+                        <span class="name">Yra prekyboje</span>
+                        <span class="count">0</span>                                            </label>
+                    
+                </li>
+                    </ul>
+    
+                                                                                        <input type="hidden" name="available_options[in_stock]" value="1">
+                                                    </div>
+                                                    <a href="#" class="toggle-cut-off">
+                                <span class="more">išskleisti</span>
+                                <span class="less">sutraukti</span>
+                            </a>
+                                            </div>
+                                                                                    </form>
+    </div>
+    </div>
+
+
+            </div>
+                    </div>
+    <div class="bottom-pagination-content col-xs-12 col-sm-12 content_sortPagiBar clearfix">
+         
+	
+												    
+	<!-- Pagination -->
+	<div id="pagination_bottom" class="pagination clearfix">
+		<div class="row">
+            
+            			<!-- /Pagination -->
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3"></div>
+	</div>
+
+    </div>
+    
+	  			
+							</div>
+						</div><!-- #center_column -->
+												
+							</div><!-- #columns -->
+					</div>
+
+									</section ><!-- .columns-container -->
+					<!-- Bottom-->
+				<div id="bottom">
+					<div class="container"><div class="row">
+													
 											</div></div>
 				</div>
 				
@@ -3608,7 +4194,7 @@ data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="fal
 
 	<div class="fb-page"
 		 data-href="https://www.facebook.com/GAMEROOMBALTIC/"
-		 data-width="320"
+		 data-width="380"
 		 data-hide-cover="false"
 		 data-show-facepile="false"></div>
 
@@ -4234,15 +4820,16 @@ data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="fal
 			<i class="icon icon-times"></i>
 		</div>
 	</div>
-<script type="text/javascript">/* <![CDATA[ */;var CUSTOMIZE_TEXTFIELD=1;var FancyboxI18nClose='Uždaryti';var FancyboxI18nNext='Tęsti';var FancyboxI18nPrev='Atgal';var PS_CATALOG_MODE=false;var afGetProductLink='https://gameroom.lt/lt/module/icadwordsfeed/products';var ajax_allowed=true;var ajaxsearch=true;var allowBuyWhenOutOfStock=true;var attribute_anchor_separator='-';var attributesCombinations=[];var availableLaterValue='';var availableNowValue='';var baseDir='https://gameroom.lt/';var baseUri='https://gameroom.lt/';var comparator_max_item=0;var comparedProductsIds=[];var confirm_report_message='Ar tikrai esate įsitikinę, kad norite pranešti apie šį komentarą?';var contentOnly=false;var cookiePosition='bottom';var cookieTopNotificationDaysNotShow='2';var cookieTopNotificationKey='1586850217';var currency={"id":1,"name":"Euro","iso_code":"EUR","iso_code_num":"978","sign":"\u20ac","blank":"1","conversion_rate":"1.000000","deleted":"0","format":"2","decimals":"1","active":"1","auto_format":true,"prefix":"","suffix":" \u20ac","id_lang":null,"id_shop":"1","id_shop_list":null,"force_id":false};var currencyBlank=1;var currencyFormat=2;var currencyModes={"EUR":true};var currencyRate=1;var currencySign='€';var currentDate='2020-11-24 16:58:55';var customerGroupWithoutTax=false;var customizationFields=false;var customizationId=null;var customizationIdMessage='Modifikacija #';var daysText='D';var default_eco_tax=0;var delete_txt='Pašalinti';var discountsText='Nuolaidos';var displayList=false;var displayPrice=0;var doesntExist='Prekė su šiomis savybėmis nebeegzistuoja. Prašome pasirinkti kitas savybes.';var doesntExistNoMore='Išparduota';var doesntExistNoMoreBut='su šiomis savybėmis, tačiau turime su kitomis.';var ecotaxTax_rate=0;var fbPixelId='358710474734960';var fbpCurrencyCode='EUR';var fbpGetProductLink='https://gameroom.lt/lt/module/icfbpixel/products';var fbpModuleDir='/modules/icfbpixel/';var fbpPrice='799.00';var fbpProductCategory='Sony PlayStation >Konsolės>PlayStation 5 konsolės';var fbpProductId=4882;var fbpProductName='PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana';var fbpTrackCartAdd='1';var fbpViewType='product';var fieldRequired='Prašome užpildyti visus privalomus laukelius prieš išsaugant.';var freeProductTranslation='Nemokamai!';var freeShippingTranslation='Nemokamas pristatymas!';var frontICWishlistPlusLink='https://gameroom.lt/lt/module/icwishlistplus/wishlist';var gdprHideBdaySelect=null;var generated_date=1606229935;var groupReduction=0;var hasDeliveryAddress=false;var highDPI=false;var hourText='VAL';var hoursMeasurement='Val. ';var icAdwordsCategoryName='PlayStation 5 konsolės';var icAdwordsId='AW-966155767';var idDefaultImage=32806;var id_lang=2;var id_product=4882;var id_shop=1;var img_dir='https://gameroom.lt/themes/pf_megashop/img/';var img_prod_dir='https://gameroom.lt/img/p/';var img_ps_dir='https://gameroom.lt/img/';var instantsearch=false;var isGuest=0;var isLogged=0;var isMobile=false;var isScriptActive=true;var jqZoomEnabled=false;var maxQuantityToAllowDisplayOfLastQuantityMessage=3;var max_item='Prekių palyginimui galima pridėti ne daugiau nei 0 prekių';var minText='MIN';var min_item='Pasirinkite bent vieną prekę';var minimalQuantity=1;var minutesMeasurement='Min. ';var moderation_active=true;var noTaxForThisProduct=false;var oosHookJsCodeFunctions=[];var page_name='product';var priceDisplayMethod=0;var priceDisplayPrecision=2;var productAvailableForOrder=false;var productBasePriceTaxExcl=660.330579;var productBasePriceTaxExcluded=660.330579;var productBasePriceTaxIncl=799.000001;var productHasAttributes=false;var productPrice=799.000001;var productPriceTaxExcluded=660.330579;var productPriceTaxIncluded=799.000001;var productPriceWithoutReduction=799.000001;var productReference='PS51TBSTART2';var productShowPrice=true;var productUnitPriceRatio=0;var product_fileButtonHtml='Pasirinkite failą';var product_fileDefaultHtml='Nepasirinktas failas';var product_specific_price=[];var productcomment_added='Jūsų komentaras pridėtas!';var productcomment_added_moderation='Jūsų komentaras buvo pridėtas ir bus rodomas, kai tik bus patvirtintas moderatoriaus';var productcomment_ok='GERAI';var productcomment_title='Naujas komentaras';var productcomments_controller_url='https://gameroom.lt/lt/module/productcomments/default';var productcomments_url_rewrite=true;var ptsblocksearch_type='top';var qtyLabel='vnt.';var quantitiesDisplayAllowed=true;var quantityAvailable=-1;var quickView=true;var reduction_percent=0;var reduction_price=0;var removeText='Pašalinti';var removingLinkText='pašalinti prekę iš krepšelio';var rg_pushnotifications={"_path":"\/modules\/rg_pushnotifications\/","token":"7748018a418d6e5fa66a03b9183d94e0","APP_ID":"fcb8a445-5b57-44ef-b94d-f55e6ecae5be","PS_SHOP_NAME":"GAME ROOM","RGPUNO_REQUEST_DELAY_PAGES_VIEWED":1,"RGPUNO_REQUEST_DELAY_TIME":10000,"RGPUNO_REQUEST_MSG":"Ar norite gauti prane\u0161imus susijusius su j\u016bs\u0173 u\u017esakymu?","RGPUNO_REQUEST_BTN_ACCEPT":"Taip, noriu!","RGPUNO_REQUEST_BTN_CANCEL":"Ne dabar","RGPUNO_DEBUG_MODE":false,"RGPUNO_PERSISTENT_NOTIF":false,"RGPUNO_POPUP_ALLOWED_SHOW":false,"RGPUNO_POPUP_ALLOWED_MSG":false,"RGPUNO_POPUP_DECLINED_SHOW":false,"RGPUNO_POPUP_DECLINED_MSG":false,"RGPUNO_WELCOME_SHOW":false,"RGPUNO_WELCOME_TITLE":"","RGPUNO_WELCOME_MSG":"","RGPUNO_WELCOME_URL":"","RGPUNO_BELL_SHOW":true,"RGPUNO_BELL_HIDE_SUBS":false,"RGPUNO_BELL_SIZE":"small","RGPUNO_BELL_THEME":"default","RGPUNO_BELL_BACK":"","RGPUNO_BELL_FORE":"","RGPUNO_BELL_DIAG_FORE":null,"RGPUNO_BELL_DIAG_BACK":null,"RGPUNO_BELL_DIAG_BACK_HOVER":null,"RGPUNO_BELL_POSITION":"bottom-right","RGPUNO_BELL_OFFSET_BOTOM":15,"RGPUNO_BELL_OFFSET_RIGHT":15,"RGPUNO_BELL_OFFSET_LEFT":15,"RGPUNO_BELL_PRENOTIFY":false,"RGPUNO_BELL_SHOW_CREDIT":false,"RGPUNO_BELL_TIP_STATE_UNS":"Subscribe to notifications","RGPUNO_BELL_TIP_STATE_SUB":"You're subscribed to notifications","RGPUNO_BELL_TIP_STATE_BLO":"You've blocked notifications","RGPUNO_BELL_MSG_PRENOTIFY":"","RGPUNO_BELL_ACTION_SUBS":"Click to subscribe to notifications","RGPUNO_BELL_ACTION_RESUB":"You're subscribed to notifications","RGPUNO_BELL_ACTION_UNS":"You won't receive notifications again","RGPUNO_BELL_MAIN_TITLE":"Manage Shop Notifications","RGPUNO_BELL_MAIN_UNS":"UNSUBSCRIBE","RGPUNO_BELL_MAIN_SUB":"SUBSCRIBE","RGPUNO_BELL_BLOCKED_TITLE":"Unblock Notifications","RGPUNO_BELL_BLOCKED_MSG":"Follow these instructions to allow notifications","SAFARI_WEB_ID":"web.onesignal.auto.064b44a8-1dd7-4e10-9d87-452ef5b9c9dd"};var roundMode=2;var search_url='https://gameroom.lt/lt/paieska';var secondText='SEK';var secure_key='14ea6097aa28934e54a13968b134e896';var sharing_img='https://gameroom.lt/32806/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg';var sharing_name='PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana';var sharing_url='https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882';var specific_currency=false;var specific_price=0;var static_token='417281977cd2a7b69c2cbbd815a3c081';var stock_management=1;var taxRate=21;var toBeDetermined='Bus apskaičiuota';var token='417281977cd2a7b69c2cbbd815a3c081';var uploading_in_progress='Siunčiama, prašome palaukti.';var useLazyLoad=false;var useWebp=false;var usingSecureMode=true;var venipak_checkout_type='1';var venipak_controller_url='https://gameroom.lt/lt/module/venipakcarrier/front';var venipak_id_carrier='142';var venipak_id_parcels='103';var venipak_ps_version='1.6';var venipak_token='417281977cd2a7b69c2cbbd815a3c081';/* ]]> */</script>
-<script type="text/javascript" src="https://gameroom.lt/themes/pf_megashop/cache/v_214_96e42c84a7705890c92690972fac5341.js"></script>
+<script type="text/javascript">/* <![CDATA[ */;var CUSTOMIZE_TEXTFIELD=1;var FancyboxI18nClose='Uždaryti';var FancyboxI18nNext='Tęsti';var FancyboxI18nPrev='Atgal';var afGetProductLink='https://gameroom.lt/lt/module/icadwordsfeed/products';var af_ajax_path='https://gameroom.lt/lt/module/amazzingfilter/ajax';var af_classes={"icon-lock":"icon-lock","icon-unlock-alt":"icon-unlock-alt","icon-times":"icon-times","icon-eraser":"icon-eraser","icon-refresh icon-spin":"icon-refresh icon-spin","icon-filter":"icon-filter","icon-minus":"icon-minus","icon-plus":"icon-plus","icon-check":"icon-check","icon-save":"icon-save","pagination":"pagination","product-count":"product-count"};var af_id_cat=292;var af_ids={"pagination":"pagination","pagination_bottom":"pagination_bottom"};var af_product_count_text='';var af_product_list_class='af-product-list';var ajax_allowed=true;var ajaxsearch=true;var baseDir='https://gameroom.lt/';var baseUri='https://gameroom.lt/';var comparator_max_item=0;var comparedProductsIds=[];var contentOnly=false;var cookiePosition='bottom';var cookieTopNotificationDaysNotShow='2';var cookieTopNotificationKey='1586850217';var currency={"id":1,"name":"Euro","iso_code":"EUR","iso_code_num":"978","sign":"\u20ac","blank":"1","conversion_rate":"1.000000","deleted":"0","format":"2","decimals":"1","active":"1","auto_format":true,"prefix":"","suffix":" \u20ac","id_lang":null,"id_shop":"1","id_shop_list":null,"force_id":false};var currencyBlank=1;var currencyFormat=2;var currencyModes={"EUR":true};var currencyRate=1;var currencySign='€';var current_controller='category';var customizationIdMessage='Modifikacija #';var delete_txt='Pašalinti';var discountsText='Nuolaidos';var displayList=false;var fbPixelId='358710474734960';var fbpGetProductLink='https://gameroom.lt/lt/module/icfbpixel/products';var fbpModuleDir='/modules/icfbpixel/';var fbpTrackCartAdd='1';var fbpViewType='';var freeProductTranslation='Nemokamai!';var freeShippingTranslation='Nemokamas pristatymas!';var frontICWishlistPlusLink='https://gameroom.lt/lt/module/icwishlistplus/wishlist';var gdprHideBdaySelect=null;var generated_date=1606230183;var hasDeliveryAddress=false;var highDPI=false;var hoursMeasurement='Val. ';var icAdwordsId='AW-966155767';var id_lang=2;var id_shop=1;var img_dir='https://gameroom.lt/themes/pf_megashop/img/';var instantsearch=false;var isGuest=0;var isLogged=0;var isMobile=false;var isScriptActive=false;var is_17=0;var load_more=false;var max_item='Prekių palyginimui galima pridėti ne daugiau nei 0 prekių';var min_item='Pasirinkite bent vieną prekę';var minutesMeasurement='Min. ';var page_link_rewrite_text='p';var page_name='category';var priceDisplayMethod=0;var priceDisplayPrecision=2;var ptsblocksearch_type='top';var qtyLabel='vnt.';var quickView=true;var removeText='Pašalinti';var removingLinkText='pašalinti prekę iš krepšelio';var request='https://gameroom.lt/lt/categories/playstation-5-konsoles-292';var rg_pushnotifications={"_path":"\/modules\/rg_pushnotifications\/","token":"7748018a418d6e5fa66a03b9183d94e0","APP_ID":"fcb8a445-5b57-44ef-b94d-f55e6ecae5be","PS_SHOP_NAME":"GAME ROOM","RGPUNO_REQUEST_DELAY_PAGES_VIEWED":1,"RGPUNO_REQUEST_DELAY_TIME":10000,"RGPUNO_REQUEST_MSG":"Ar norite gauti prane\u0161imus susijusius su j\u016bs\u0173 u\u017esakymu?","RGPUNO_REQUEST_BTN_ACCEPT":"Taip, noriu!","RGPUNO_REQUEST_BTN_CANCEL":"Ne dabar","RGPUNO_DEBUG_MODE":false,"RGPUNO_PERSISTENT_NOTIF":false,"RGPUNO_POPUP_ALLOWED_SHOW":false,"RGPUNO_POPUP_ALLOWED_MSG":false,"RGPUNO_POPUP_DECLINED_SHOW":false,"RGPUNO_POPUP_DECLINED_MSG":false,"RGPUNO_WELCOME_SHOW":false,"RGPUNO_WELCOME_TITLE":"","RGPUNO_WELCOME_MSG":"","RGPUNO_WELCOME_URL":"","RGPUNO_BELL_SHOW":true,"RGPUNO_BELL_HIDE_SUBS":false,"RGPUNO_BELL_SIZE":"small","RGPUNO_BELL_THEME":"default","RGPUNO_BELL_BACK":"","RGPUNO_BELL_FORE":"","RGPUNO_BELL_DIAG_FORE":null,"RGPUNO_BELL_DIAG_BACK":null,"RGPUNO_BELL_DIAG_BACK_HOVER":null,"RGPUNO_BELL_POSITION":"bottom-right","RGPUNO_BELL_OFFSET_BOTOM":15,"RGPUNO_BELL_OFFSET_RIGHT":15,"RGPUNO_BELL_OFFSET_LEFT":15,"RGPUNO_BELL_PRENOTIFY":false,"RGPUNO_BELL_SHOW_CREDIT":false,"RGPUNO_BELL_TIP_STATE_UNS":"Subscribe to notifications","RGPUNO_BELL_TIP_STATE_SUB":"You're subscribed to notifications","RGPUNO_BELL_TIP_STATE_BLO":"You've blocked notifications","RGPUNO_BELL_MSG_PRENOTIFY":"","RGPUNO_BELL_ACTION_SUBS":"Click to subscribe to notifications","RGPUNO_BELL_ACTION_RESUB":"You're subscribed to notifications","RGPUNO_BELL_ACTION_UNS":"You won't receive notifications again","RGPUNO_BELL_MAIN_TITLE":"Manage Shop Notifications","RGPUNO_BELL_MAIN_UNS":"UNSUBSCRIBE","RGPUNO_BELL_MAIN_SUB":"SUBSCRIBE","RGPUNO_BELL_BLOCKED_TITLE":"Unblock Notifications","RGPUNO_BELL_BLOCKED_MSG":"Follow these instructions to allow notifications","SAFARI_WEB_ID":"web.onesignal.auto.064b44a8-1dd7-4e10-9d87-452ef5b9c9dd"};var roundMode=2;var search_url='https://gameroom.lt/lt/paieska';var show_load_more_btn=true;var static_token='417281977cd2a7b69c2cbbd815a3c081';var toBeDetermined='Bus apskaičiuota';var token='53358d849be8eb91aca6358767f1b190';var useLazyLoad=false;var useWebp=false;var usingSecureMode=true;var venipak_checkout_type='1';var venipak_controller_url='https://gameroom.lt/lt/module/venipakcarrier/front';var venipak_id_carrier='142';var venipak_id_parcels='103';var venipak_ps_version='1.6';var venipak_token='417281977cd2a7b69c2cbbd815a3c081';/* ]]> */</script>
+<script type="text/javascript" src="https://gameroom.lt/themes/pf_megashop/cache/v_214_82b7529ee7cbb9edf18081ffd2692151.js"></script>
 <script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=AW-966155767"></script>
 <script type="text/javascript" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
-<script type="text/javascript">/* <![CDATA[ */;writeBookmarkLink('https://gameroom.lt/lt/peles/products/razer-basilisk-ultimate-juoda-beviele-zaidimu-optine-pele-20000-dpi-4629','Pirkti RAZER BASILISK ULTIMATE juoda bevielė žaidimų optinė pelė | 20000 DPI','įsiminti');;$('document').ready(function(){var width_ac_results=$("#pts_search_query_top").outerWidth();if($(window).width()<=600){width_ac_results='100%';}else if($(window).width()<=991){width_ac_results='50%';}
+<script type="text/javascript">/* <![CDATA[ */;writeBookmarkLink('https://gameroom.lt/lt/','GameRoom.lt  Play Eat Repeat - GAME ROOM','įsiminti');;$('document').ready(function(){var width_ac_results=$("#pts_search_query_top").outerWidth();if($(window).width()<=600){width_ac_results='100%';}else if($(window).width()<=991){width_ac_results='50%';}
 var ac=$("#pts_search_query_top").autocomplete('https://gameroom.lt/lt/paieska',{minChars:3,max:10,width:width_ac_results,selectFirst:false,scroll:false,dataType:"json",formatItem:function(data,i,max,value,term){return value;},parse:function(data){var mytab=new Array();for(var i=0;i<data.length;i++){var logoImg='';if(data[i].has_console_img){logoImg='<img class="ac_search_console_logo" src="/img/consoles/'+data[i].id_category_default+'.png">';}
 mytab[mytab.length]={data:data[i],value:'<img class="pull-left" src="'+data[i].image+'">'+logoImg+'<div class="name">'+data[i].pname+'</div>'+
 (typeof data[i].dprice!=='undefined'?'<div class="price">'+data[i].dprice+'</div>':''),};}
-return mytab;},extraParams:{ajaxSearch:1,id_lang:2,category_filter:$("#category_filter").val()}}).result(function(event,data,formatted){$('#pts_search_query_top').val(data.pname);document.location.href=data.product_link;});$("#category_filter").change(function(){ac.setOptions({extraParams:{ajaxSearch:1,id_lang:2,category_filter:$("#category_filter").val()}});});});;$(document).ready(function(){$(".mobile-search").on('click',function(){$(this).toggleClass('active-search');$('#searchbox').toggleClass('tmsearch-active');});});$(document).mouseup(function(e){if($('#searchbox').has(e.target).length===0&&$('#tmsearch').has(e.target).length===0&&$('#searchbox').hasClass('tmsearch-active')){$('.mobile-search').removeClass('active-search');$('#searchbox').removeClass('tmsearch-active');}});;var omnisendProduct={"productID":"4882","title":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","description":"\r\n","currency":"EUR","productUrl":"https:\/\/gameroom.lt\/lt\/playstation-5-konsoles\/products\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882","vendor":"Sony Interactive Entertainment","images":{"32806":{"imageID":"32806","url":"https:\/\/gameroom.lt\/32806\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":true},"32807":{"imageID":"32807","url":"https:\/\/gameroom.lt\/32807\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32802":{"imageID":"32802","url":"https:\/\/gameroom.lt\/32802\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32801":{"imageID":"32801","url":"https:\/\/gameroom.lt\/32801\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32800":{"imageID":"32800","url":"https:\/\/gameroom.lt\/32800\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32799":{"imageID":"32799","url":"https:\/\/gameroom.lt\/32799\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32798":{"imageID":"32798","url":"https:\/\/gameroom.lt\/32798\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false}},"variants":[{"variantID":"4882","title":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","sku":"","status":"inStock","price":79900,"oldPrice":79900,"productUrl":"https:\/\/gameroom.lt\/lt\/playstation-5-konsoles\/products\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882","imageID":"32806"}]};;$(document).ready(function(){$(".tabs-info .nav-tabs li",this).first().addClass("active");$(".tabs-info .tab-content .tab-pane",this).first().addClass("active");});;$("a.pts-fancybox").fancybox();;$(document).ready(function(){slickInit();function slickInit(){$('#relatedproducts .boxcarousel .product_list').not('.slick-initialized').slick({focusOnSelect:false,arrows:true,dots:false,infinite:true,prevArrow:'<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fal fa-chevron-left fa-3x"></i></button>',nextArrow:'<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fal fa-chevron-right fa-3x"></i></button>',speed:300,slidesToShow:8,slidesToScroll:4,focusOnSelect:false,responsive:[{breakpoint:1799,settings:{slidesToShow:6,slidesToScroll:2,}},{breakpoint:1555,settings:{slidesToShow:5,slidesToScroll:2,}},{breakpoint:1024,settings:{slidesToShow:4,slidesToScroll:2,}},{breakpoint:767,settings:{slidesToShow:3,slidesToScroll:2}},{breakpoint:600,settings:{slidesToShow:1,slidesToScroll:1}},{breakpoint:480,settings:{slidesToShow:1,slidesToScroll:1}}]});}});;var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/5a8d627ad7591465c707df0a/default';s1.charset='UTF-8';s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})();;window.onpageshow=function(event){if(event.persisted){window.location.reload()}};var analyticsEvents=new AnalyticsEvents();var controllerName='product';var compliantModuleName='';var isOrder=0;var isCheckout=0;var idShop;var order;var pageTrack;var product;var products;var checkoutEvent;analyticsEvents.trackingFeatures=guaTrackingFeatures;analyticsEvents.initPosition=1;analyticsEvents.list='Accessories';analyticsEvents.filterList='Filtered Results';analyticsEvents.instantSearchList='Instant Search Results';analyticsEvents.productViewList='Product Page';analyticsEvents.ecommPageType='product';analyticsEvents.shippingEventName='shipping selected';analyticsEvents.paymentEventName='payment selected';analyticsEvents.opcEventName='payment / shipping';analyticsEvents.pageStep=1;pageTrack='';product={"id":4882,"name":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","variant":null,"brand":"Sony Interactive Entertainment","category":"Sony PlayStation \/Konsol\u0117s\/PlayStation 5 konsol\u0117s","position":null,"list":null,"price":799,"quantity":null,"id_attribute":null};analyticsEvents.onProductDetail(product);analyticsEvents.onPageView(pageTrack);document.addEventListener('DOMContentLoaded',initGaEvents,false);function initGaEvents(){document.body.addEventListener('click',analyticsEvents.eventRemoveFromCart,false);if(!isCheckout&&!isOrder){window.addEventListener('scroll',analyticsEvents.eventScrollList.bind(analyticsEvents),false);document.body.addEventListener('click',analyticsEvents.eventClickProductList,false);document.body.addEventListener('click',analyticsEvents.eventAddCartProductList,false);document.body.addEventListener('click',analyticsEvents.eventAddCartProductView,false);}
+return mytab;},extraParams:{ajaxSearch:1,id_lang:2,category_filter:$("#category_filter").val()}}).result(function(event,data,formatted){$('#pts_search_query_top').val(data.pname);document.location.href=data.product_link;});$("#category_filter").change(function(){ac.setOptions({extraParams:{ajaxSearch:1,id_lang:2,category_filter:$("#category_filter").val()}});});});;$(document).ready(function(){$(".mobile-search").on('click',function(){$(this).toggleClass('active-search');$('#searchbox').toggleClass('tmsearch-active');});});$(document).mouseup(function(e){if($('#searchbox').has(e.target).length===0&&$('#tmsearch').has(e.target).length===0&&$('#searchbox').hasClass('tmsearch-active')){$('.mobile-search').removeClass('active-search');$('#searchbox').removeClass('tmsearch-active');}});;var colLap=3;var colTablet=3;var colMobile=4;;$("a.pts-fancybox").fancybox();;$("a.pts-fancybox").fancybox();;$("a.pts-fancybox").fancybox();;$("a.pts-fancybox").fancybox();;$("a.pts-fancybox").fancybox();;var myApp=angular.module('myapp',['rzModule']),nbValue=parseInt($('#nb_item').val());myApp.controller('NBPerPageController',NBPerPageController);function NBPerPageController(){var vm=this;vm.values=[12,24,48];vm.priceSlider={value:nbValue,options:{id:'slider-id',ceil:20,floor:4,stepsArray:vm.values.map(function(v){return v;}),showTicksValues:true,onChange:function(id,value){valueinput(value);},}}}
+function valueinput(value){$('#nb_item').val(value).trigger('change');};;var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/5a8d627ad7591465c707df0a/default';s1.charset='UTF-8';s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})();;window.onpageshow=function(event){if(event.persisted){window.location.reload()}};var analyticsEvents=new AnalyticsEvents();var controllerName='category';var compliantModuleName='';var isOrder=0;var isCheckout=0;var idShop;var order;var pageTrack;var product;var products;var checkoutEvent;analyticsEvents.trackingFeatures=guaTrackingFeatures;analyticsEvents.initPosition=1;analyticsEvents.list='Category';analyticsEvents.filterList='Filtered Results';analyticsEvents.instantSearchList='Instant Search Results';analyticsEvents.productViewList='Product Page';analyticsEvents.ecommPageType='category';analyticsEvents.shippingEventName='shipping selected';analyticsEvents.paymentEventName='payment selected';analyticsEvents.opcEventName='payment / shipping';analyticsEvents.pageStep=1;pageTrack='';analyticsEvents.productsListCache=analyticsEvents.indexProductsCache([{"id_product":"4882","id_supplier":"0","id_manufacturer":"3","id_category_default":"292","id_shop_default":"1","id_tax_rules_group":"8","on_sale":"0","online_only":"0","ean13":"","ean2":"","ean3":"","upc":"","ecotax":"0.000000","quantity":-1,"minimal_quantity":"1","price":799,"wholesale_price":"399.860000","unity":"","unit_price_ratio":"0.000000","additional_shipping_cost":"0.00","reference":"PS51TBSTART2","supplier_reference":"","location":"","width":"0.000000","height":"0.000000","depth":"0.000000","weight":"1.000000","real_weight":"0.000000","out_of_stock":1,"quantity_discount":"0","customizable":"0","uploadable_files":"0","text_fields":"0","active":"1","redirect_type":"404","id_product_redirected":"0","available_for_order":"0","available_date":"2020-12-14","release_date":"2020-11-19","condition":"new","show_price":"1","indexed":"1","visibility":"both","cache_is_pack":"0","cache_has_attachments":"0","is_virtual":"0","cache_default_attribute":"0","allow_duplicate_references":"0","date_add":"2020-11-21 11:39:00","date_upd":"2020-11-24 10:41:04","advanced_stock_management":"1","pack_stock_type":"3","id_shop":"1","id_lang":"2","description":"<p><img src=\"https:\/\/gameroom.lt\/img\/p\/3\/2\/8\/0\/7\/32807.jpg?time=1605958727174\" width=\"1570\" height=\"998\" alt=\"32807.jpg?time=1605958727174\" \/><\/p>\r\n<p><img src=\"https:\/\/gameroom.lt\/img\/cms\/PS5\/ps5%20cover.jpg\" alt=\"\" width=\"1600\" height=\"6544\" \/><\/p>","description_short":"<p><strong><span><span style=\"text-decoration:underline;\"><span style=\"color:#7cd320;text-decoration:underline;\">PREK\u0116S PAPILDYMAS NUMATOMAS GRUOD\u017dIO 13-16d.<\/span><\/span><\/span><\/strong><\/p>","link_rewrite":"playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana","meta_description":" Sony Interactive Entertainment, ","meta_keywords":"pirkti, preorder, playstation 5, playstation5, \u017eaidim\u0173, pack, konsol\u0117, playstation","meta_title":"Pirkti PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5)","name":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","available_now":"","available_later":"","name_short":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 \u017eaidimai)","id_image":"4882-32806","legend":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","manufacturer_name":"Sony Interactive Entertainment","new":"1","id_product_attribute":0,"allow_oosp":1,"category":"playstation-5-konsoles","link":"https:\/\/gameroom.lt\/lt\/playstation-5-konsoles\/products\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882","attribute_price":0,"price_tax_exc":660.330579,"price_without_reduction":799.000001,"reduction":0,"specific_prices":false,"quantity_all_versions":-1,"features":[{"name":"HDD","value":"SDD","id_feature":"23"},{"name":"GARANTIJA","value":"Fiziniams 24m\u0117n \/ Juridinams 12m\u0117n","id_feature":"26"}],"attachments":[],"virtual":0,"pack":0,"packItems":[],"nopackprice":0,"customization_required":false,"rate":21,"tax_name":"PVM LT 21%","discount_starts_at":null,"color_list":""},{"id_product":"4299","id_supplier":"0","id_manufacturer":"3","id_category_default":"292","id_shop_default":"1","id_tax_rules_group":"8","on_sale":"0","online_only":"0","ean13":"711719396208","ean2":"","ean3":"","upc":"","ecotax":"0.000000","quantity":-36,"minimal_quantity":"1","price":549,"wholesale_price":"477.200000","unity":"","unit_price_ratio":"0.000000","additional_shipping_cost":"0.00","reference":"PS51TBWHITE","supplier_reference":"","location":"","width":"0.000000","height":"0.000000","depth":"0.000000","weight":"1.000000","real_weight":"0.000000","out_of_stock":0,"quantity_discount":"0","customizable":"0","uploadable_files":"0","text_fields":"0","active":"1","redirect_type":"404","id_product_redirected":"0","available_for_order":"0","available_date":"0000-00-00","release_date":"2020-11-19","condition":"new","show_price":"1","indexed":"1","visibility":"both","cache_is_pack":"0","cache_has_attachments":"0","is_virtual":"0","cache_default_attribute":"0","allow_duplicate_references":"0","date_add":"2020-08-27 21:12:40","date_upd":"2020-11-23 23:31:53","advanced_stock_management":"1","pack_stock_type":"3","id_shop":"1","id_lang":"2","description":"<p><img src=\"https:\/\/gameroom.lt\/img\/cms\/PS5\/ps5%20cover.jpg\" alt=\"\" width=\"1600\" height=\"6544\" \/><\/p>","description_short":"<p><strong><span><span style=\"color:#000202;\">Naktinis Startas GAME ROOM\u00a0parduotuv\u0117se Vilniuje ir Kaune . Prek\u0117s atsi\u0117mimas galimas nuo 2020-11-19 00:00. D\u0117l karantino galimi ribojimai, detaliau informuosime u\u017esisakiusiosius asmeni\u0161kai.<\/span><br \/><br \/><br \/><span style=\"text-decoration:underline;\"><span style=\"color:#7cd320;text-decoration:underline;\">PAPILDOMAS KIEKIS NUMATOMAS GRUOD\u017dIO 13-16d. tik STARTER PACK komplektacijos.\u00a0<\/span><\/span><\/span><\/strong><\/p>\r\n<p><strong><span><span style=\"text-decoration:underline;\"><span style=\"color:#7cd320;text-decoration:underline;\">Tik konsol\u0117 bus prieinama 2021<\/span><\/span><\/span><\/strong><\/p>","link_rewrite":"playstation-5-zaidimu-konsole-825gb-ps5","meta_description":" Sony Interactive Entertainment, ","meta_keywords":"pirkti, konsol\u0117, sony, dualshock, slim, features, bundle, range, realistic, more, 500gb, fifa, revamped, \u017eaidim\u0173","meta_title":"Pirkti PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5)","name":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5)","available_now":"","available_later":"","name_short":"","id_image":"4299-27800","legend":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5)","manufacturer_name":"Sony Interactive Entertainment","new":"0","id_product_attribute":0,"allow_oosp":0,"category":"playstation-5-konsoles","link":"https:\/\/gameroom.lt\/lt\/playstation-5-konsoles\/products\/playstation-5-zaidimu-konsole-825gb-ps5-4299","attribute_price":0,"price_tax_exc":453.719008,"price_without_reduction":549,"reduction":0,"specific_prices":false,"quantity_all_versions":-36,"features":[{"name":"HDD","value":"SDD","id_feature":"23"},{"name":"GARANTIJA","value":"Fiziniams 24m\u0117n \/ Juridinams 12m\u0117n","id_feature":"26"}],"attachments":[],"virtual":0,"pack":0,"packItems":[],"nopackprice":0,"customization_required":false,"rate":21,"tax_name":"PVM LT 21%","discount_starts_at":null,"color_list":""},{"id_product":"4872","id_supplier":"0","id_manufacturer":"3","id_category_default":"292","id_shop_default":"1","id_tax_rules_group":"8","on_sale":"0","online_only":"0","ean13":"","ean2":"","ean3":"","upc":"","ecotax":"0.000000","quantity":-3,"minimal_quantity":"1","price":779,"wholesale_price":"399.860000","unity":"","unit_price_ratio":"0.000000","additional_shipping_cost":"0.00","reference":"PS51TBSTARTE","supplier_reference":"","location":"","width":"0.000000","height":"0.000000","depth":"0.000000","weight":"1.000000","real_weight":"0.000000","out_of_stock":1,"quantity_discount":"0","customizable":"0","uploadable_files":"0","text_fields":"0","active":"1","redirect_type":"404","id_product_redirected":"0","available_for_order":"0","available_date":"2020-12-14","release_date":"2020-11-19","condition":"new","show_price":"1","indexed":"1","visibility":"both","cache_is_pack":"0","cache_has_attachments":"0","is_virtual":"0","cache_default_attribute":"0","allow_duplicate_references":"0","date_add":"2020-11-15 21:52:03","date_upd":"2020-11-24 17:01:10","advanced_stock_management":"1","pack_stock_type":"3","id_shop":"1","id_lang":"2","description":"<p><img src=\"https:\/\/gameroom.lt\/img\/cms\/PS5\/starter%20pack.jpg\" alt=\"\" width=\"1570\" height=\"998\" \/><\/p>\r\n<p><img src=\"https:\/\/gameroom.lt\/img\/cms\/PS5\/ps5%20cover.jpg\" alt=\"\" width=\"1600\" height=\"6544\" \/><\/p>","description_short":"<p><strong><span><span style=\"text-decoration:underline;\"><span style=\"color:#7cd320;text-decoration:underline;\">PREK\u0116S PAPILDYMAS NUMATOMAS GRUOD\u017dIO 13-16d.<\/span><\/span><\/span><\/strong><\/p>","link_rewrite":"playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana","meta_description":" Sony Interactive Entertainment, ","meta_keywords":"pirkti, konsol\u0117, sony, dualshock, slim, features, bundle, range, realistic, more, 500gb, fifa, revamped, \u017eaidim\u0173","meta_title":"Pirkti PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5)","name":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","available_now":"","available_later":"","name_short":"","id_image":"4872-32739","legend":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","manufacturer_name":"Sony Interactive Entertainment","new":"1","id_product_attribute":0,"allow_oosp":1,"category":"playstation-5-konsoles","link":"https:\/\/gameroom.lt\/lt\/playstation-5-konsoles\/products\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4872","attribute_price":0,"price_tax_exc":643.801653,"price_without_reduction":779,"reduction":0,"specific_prices":false,"quantity_all_versions":-3,"features":[{"name":"HDD","value":"SDD","id_feature":"23"},{"name":"GARANTIJA","value":"Fiziniams 24m\u0117n \/ Juridinams 12m\u0117n","id_feature":"26"}],"attachments":[],"virtual":0,"pack":0,"packItems":[],"nopackprice":0,"customization_required":false,"rate":21,"tax_name":"PVM LT 21%","discount_starts_at":null,"color_list":""},{"id_product":"4300","id_supplier":"0","id_manufacturer":"3","id_category_default":"292","id_shop_default":"1","id_tax_rules_group":"8","on_sale":"0","online_only":"0","ean13":"711719896307","ean2":"","ean3":"","upc":"","ecotax":"0.000000","quantity":0,"minimal_quantity":"1","price":449,"wholesale_price":"0.000000","unity":"","unit_price_ratio":"0.000000","additional_shipping_cost":"0.00","reference":"PS51TBDIGITW","supplier_reference":"","location":"","width":"0.000000","height":"0.000000","depth":"0.000000","weight":"1.000000","real_weight":"0.000000","out_of_stock":0,"quantity_discount":"0","customizable":"0","uploadable_files":"0","text_fields":"0","active":"1","redirect_type":"404","id_product_redirected":"0","available_for_order":"0","available_date":"0000-00-00","release_date":"2020-11-19","condition":"new","show_price":"1","indexed":"1","visibility":"both","cache_is_pack":"0","cache_has_attachments":"0","is_virtual":"0","cache_default_attribute":"0","allow_duplicate_references":"0","date_add":"2020-08-27 21:24:16","date_upd":"2020-09-28 23:03:23","advanced_stock_management":"1","pack_stock_type":"3","id_shop":"1","id_lang":"2","description":"<p><img src=\"https:\/\/gameroom.lt\/img\/cms\/PS5\/ps5%20cover.jpg\" alt=\"\" width=\"1600\" height=\"6544\" \/><\/p>","description_short":"<p><strong><span style=\"color:#f30a0a;\">Prek\u0117s gavimas numatomas 2021 metais.<\/span><br \/><br \/><\/strong><\/p>","link_rewrite":"playstation-5-digital-edition-zaidimu-konsole-825gb-ps5","meta_description":" Sony Interactive Entertainment, ","meta_keywords":"pirkti, konsol\u0117, sony, dualshock, slim, features, bundle, range, realistic, more, 500gb, fifa, revamped, \u017eaidim\u0173","meta_title":"Pirkti PlayStation 5 Digital Edition \u017eaidim\u0173 konsol\u0117 825GB (PS5)","name":"PlayStation 5 Digital Edition \u017eaidim\u0173 konsol\u0117 825GB (PS5)","available_now":"","available_later":"","name_short":"","id_image":"4300-27802","legend":"PlayStation 5 Digital Edition \u017eaidim\u0173 konsol\u0117 825GB (PS5)","manufacturer_name":"Sony Interactive Entertainment","new":"0","id_product_attribute":0,"allow_oosp":0,"category":"playstation-5-konsoles","link":"https:\/\/gameroom.lt\/lt\/playstation-5-konsoles\/products\/playstation-5-digital-edition-zaidimu-konsole-825gb-ps5-4300","attribute_price":0,"price_tax_exc":371.07438,"price_without_reduction":449,"reduction":0,"specific_prices":false,"quantity_all_versions":0,"features":[{"name":"I\u0161leidimo data","value":"2020","id_feature":"12"},{"name":"HDD","value":"SSD","id_feature":"23"},{"name":"GARANTIJA","value":"Fiziniams 24m\u0117n \/ Juridinams 12m\u0117n","id_feature":"26"}],"attachments":[],"virtual":0,"pack":0,"packItems":[],"nopackprice":0,"customization_required":false,"rate":21,"tax_name":"PVM LT 21%","discount_starts_at":null,"color_list":""},{"id_product":"4883","id_supplier":"0","id_manufacturer":"3","id_category_default":"292","id_shop_default":"1","id_tax_rules_group":"8","on_sale":"0","online_only":"0","ean13":"","ean2":"","ean3":"","upc":"","ecotax":"0.000000","quantity":0,"minimal_quantity":"1","price":819,"wholesale_price":"399.860000","unity":"","unit_price_ratio":"0.000000","additional_shipping_cost":"0.00","reference":"PS51TBSTART3","supplier_reference":"","location":"","width":"0.000000","height":"0.000000","depth":"0.000000","weight":"1.000000","real_weight":"0.000000","out_of_stock":2,"quantity_discount":"0","customizable":"0","uploadable_files":"0","text_fields":"0","active":"1","redirect_type":"404","id_product_redirected":"0","available_for_order":"0","available_date":"2020-12-14","release_date":"2020-11-19","condition":"new","show_price":"1","indexed":"1","visibility":"both","cache_is_pack":"0","cache_has_attachments":"0","is_virtual":"0","cache_default_attribute":"0","allow_duplicate_references":"0","date_add":"2020-11-21 13:34:02","date_upd":"2020-11-21 13:42:36","advanced_stock_management":"1","pack_stock_type":"3","id_shop":"1","id_lang":"2","description":"<p><img src=\"https:\/\/gameroom.lt\/img\/p\/3\/2\/8\/1\/7\/32817.jpg?time=1605958851174\" width=\"1570\" height=\"998\" alt=\"32817.jpg?time=1605958851174\" \/><\/p>\r\n<p><img src=\"..\/img\/cms\/PS5\/ps5%20cover.jpg\" alt=\"\" width=\"1600\" height=\"6544\" \/><\/p>","description_short":"<p><strong><span><span style=\"text-decoration:underline;\"><span style=\"color:#7cd320;text-decoration:underline;\">PREK\u0116S PAPILDYMAS NUMATOMAS GRUOD\u017dIO 13-16d.<\/span><\/span><\/span><\/strong><\/p>","link_rewrite":"playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana","meta_description":" Sony Interactive Entertainment, ","meta_keywords":"pirkti, preorder, playstation 5, playstation5, starter, 825gb, dovana, \u017eaidim\u0173","meta_title":"Pirkti PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5)","name":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack 3 (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","available_now":"","available_later":"","name_short":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack 3 (Papildomas valdiklis + 3 \u017eaidimai)","id_image":"4883-32816","legend":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack 3 (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","manufacturer_name":"Sony Interactive Entertainment","new":"1","id_product_attribute":0,"allow_oosp":0,"category":"playstation-5-konsoles","link":"https:\/\/gameroom.lt\/lt\/playstation-5-konsoles\/products\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4883","attribute_price":0,"price_tax_exc":676.859504,"price_without_reduction":819,"reduction":0,"specific_prices":false,"quantity_all_versions":0,"features":[{"name":"HDD","value":"SDD","id_feature":"23"},{"name":"GARANTIJA","value":"Fiziniams 24m\u0117n \/ Juridinams 12m\u0117n","id_feature":"26"}],"attachments":[],"virtual":0,"pack":0,"packItems":[],"nopackprice":0,"customization_required":false,"rate":21,"tax_name":"PVM LT 21%","discount_starts_at":null,"color_list":""}]);analyticsEvents.onPageView(pageTrack);document.addEventListener('DOMContentLoaded',initGaEvents,false);function initGaEvents(){document.body.addEventListener('click',analyticsEvents.eventRemoveFromCart,false);if(!isCheckout&&!isOrder){window.addEventListener('scroll',analyticsEvents.eventScrollList.bind(analyticsEvents),false);document.body.addEventListener('click',analyticsEvents.eventClickProductList,false);document.body.addEventListener('click',analyticsEvents.eventAddCartProductList,false);document.body.addEventListener('click',analyticsEvents.eventAddCartProductView,false);}
 if(isCheckout){if(analyticsEvents.pageStep===1||analyticsEvents.pageStep===4){document.body.addEventListener('click',analyticsEvents.eventCartQuantityDelete,false);document.body.addEventListener('click',analyticsEvents.eventCartQuantityUp,false);document.body.addEventListener('click',analyticsEvents.eventCartQuantityDown,false);}
 if(controllerName==='order'){if(analyticsEvents.pageStep===3){checkoutEvent=document.querySelector('button[name="processCarrier"]');checkoutEvent.addEventListener('click',analyticsEvents.eventCheckoutStepThree,false);}else if(analyticsEvents.pageStep===4){checkoutEvent=document.querySelector('#HOOK_PAYMENT')||document.querySelector('#confirmOrder');checkoutEvent.addEventListener('click',analyticsEvents.eventCheckoutStepFour,false);}}else if(controllerName==='orderopc'&&!compliantModuleName){checkoutEvent=document.querySelector('#HOOK_PAYMENT')||document.querySelector('#confirmOrder');checkoutEvent.addEventListener('click',analyticsEvents.eventOpcPrestashop,false);}else if(controllerName==='orderopc'&&compliantModuleName==='onepagecheckout'){checkoutEvent=document.querySelectorAll('.confirm_button');if(!checkoutEvent.length){checkoutEvent=document.querySelectorAll('.payment_module');}
 checkoutEvent.forEach(function(checkoutElement){checkoutElement.addEventListener('click',analyticsEvents.eventOpcZelarg,false);});}else if(controllerName==='orderopc'&&compliantModuleName==='onepagecheckoutps'){document.body.addEventListener('click',analyticsEvents.eventOpcPrestaTeam,false);}else if(controllerName==='orderopc'&&compliantModuleName==='bestkit_opc'){document.body.addEventListener('click',analyticsEvents.eventOpcBestKit,false);}else if(controllerName==='supercheckout'){checkoutEvent=document.querySelector('#supercheckout_confirm_order');checkoutEvent.addEventListener('click',analyticsEvents.eventOpcSuperCheckout,false);}}};;window.omnisend=window.omnisend||[];omnisend.push(["accountID","5b7ff58c597ed708a407f5a1"]);omnisend.push(["track","$pageViewed"]);!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://omnisrc.com/inshop/launcher-v2.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}();/* ]]> */</script>

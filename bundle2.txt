@@ -20,19 +20,19 @@
 					<link rel="stylesheet" href="https://gameroom.lt/themes/pf_megashop/cache/v_455_5352ff646b6b6300440e799cc486e3eb_all.css" type="text/css" media="all" />
 							<link rel="stylesheet" href="https://gameroom.lt/themes/pf_megashop/cache/v_455_08ef54da484880ac45f2b1248339f3e6_print.css" type="text/css" media="print" />
 					<meta property="og:type" content="product" />
-<meta property="og:url" content="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882" />
+<meta property="og:url" content="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4872" />
 <meta property="og:title" content="Pirkti PlayStation 5 žaidimų konsolė 825GB (PS5)" />
 <meta property="og:site_name" content="GAME ROOM" />
 <meta property="og:description" content=" Sony Interactive Entertainment, " />
-<meta property="og:image" content="https://gameroom.lt/32806-large_default/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" />
-<meta property="product:pretax_price:amount" content="660.33" />
+<meta property="og:image" content="https://gameroom.lt/32739-large_default/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg" />
+<meta property="product:pretax_price:amount" content="643.8" />
 <meta property="product:pretax_price:currency" content="EUR" />
-<meta property="product:price:amount" content="799" />
+<meta property="product:price:amount" content="779" />
 <meta property="product:price:currency" content="EUR" />
 <meta property="product:weight:value" content="1.000000" />
 <meta property="product:weight:units" content="kg" />
 
-<meta property="og:url" content="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882" />
+<meta property="og:url" content="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4872" />
 <meta property="og:title" content="Pirkti PlayStation 5 žaidimų konsolė 825GB (PS5)" />
 <meta property="og:site_name" content="GAME ROOM" />
 <meta property="og:description" content=" Sony Interactive Entertainment, " />
@@ -41,7 +41,7 @@
 
     <meta property="og:type" content="product" />
 
-            <meta property="og:image" content="https://gameroom.lt/32806/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" />
+            <meta property="og:image" content="https://gameroom.lt/32739/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg" />
     
 <div class="cookie-block" id="cookieBlock">
 	<div class="container">
@@ -108,13 +108,13 @@
         
     <link rel="manifest" href="/modules/rg_pushnotifications/manifest.json">
 
-<link rel="canonical" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882">
-<link rel="alternate" href="https://gameroom.lt/en/playstation-5-consoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4882" hreflang="en-us">
-<link rel="alternate" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882" hreflang="lt-lt">
-<link rel="alternate" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882" hreflang="x-default">
-<link rel="alternate" href="https://gameroom.lt/lv/sony-playstation/konsoles/playstation-5-konsoles/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana" hreflang="lv-LV">
-<link rel="alternate" href="https://gameroom.lt/et/sony-playstation/konsoles/playstation-5-konsoles/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana" hreflang="et-EE">
-<link rel="alternate" href="https://gameroom.lt/ru/sony-playstation/konsoles/playstation-5-konsoles/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana" hreflang="ru-RU">
+<link rel="canonical" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4872">
+<link rel="alternate" href="https://gameroom.lt/en/playstation-5-consoles/products/playstation-5-console-825gb-ps5-additional-joystick-and-3-games-4872" hreflang="en-us">
+<link rel="alternate" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4872" hreflang="lt-lt">
+<link rel="alternate" href="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4872" hreflang="x-default">
+<link rel="alternate" href="https://gameroom.lt/lv/sony-playstation/konsoles/playstation-5-konsoles/playstation-5-zaidimu-konsole-825gb-ps5" hreflang="lv-LV">
+<link rel="alternate" href="https://gameroom.lt/et/sony-playstation/konsoles/playstation-5-konsoles/playstation-5-zaidimu-konsole-825gb-ps5" hreflang="et-EE">
+<link rel="alternate" href="https://gameroom.lt/ru/sony-playstation/konsoles/playstation-5-konsoles/playstation-5-zaidimu-konsole-825gb-ps5" hreflang="ru-RU">
 
 		<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic,900,900italic,100,100italic,100' rel='stylesheet' type='text/css' />
 		<link href='https://fonts.googleapis.com/css?family=Hind:600,300,700,400,500' rel='stylesheet' type='text/css'>
@@ -126,7 +126,7 @@
 <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 		<![endif]-->
 	</head>
-	<body id="product" class="product product-4882 product-playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana category-292 category-playstation-5-konsoles show-left-column hide-right-column lang_lt">
+	<body id="product" class="product product-4872 product-playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana category-292 category-playstation-5-konsoles show-left-column hide-right-column lang_lt">
 
 						
 		<div id="page">
@@ -155,7 +155,7 @@
 					<div id="languages-block-top" class="languages-block">
 						<ul id="first-languages" class="languages-block_ul">
 															<li >
-																																				<a href="https://gameroom.lt/en/playstation-5-consoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4882" title="English (English)" rel="alternate" hreflang="en">
+																																				<a href="https://gameroom.lt/en/playstation-5-consoles/products/playstation-5-console-825gb-ps5-additional-joystick-and-3-games-4872" title="English (English)" rel="alternate" hreflang="en">
 																											
 										<span>
 											English
@@ -3025,7 +3025,7 @@
 				
 				        			<div class="product-info">
 <div class="primary_block row" itemscope itemtype="https://schema.org/Product">
-	<meta itemprop="url" content="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882">
+	<meta itemprop="url" content="https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4872">
 
 					<div class="container">
 				<div class="top-hr"></div>
@@ -3038,7 +3038,7 @@
 <div class="breadcrumb clearfix">
 	<a class="home" href="https://gameroom.lt/" title="Grįžti į pagrindinį puslapį">Pagrindinis</a>
 				<span class="navigation-pipe">&gt;</span>
-					<span class="navigation_page"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://gameroom.lt/lt/categories/sony-playstation-12" title="Sony PlayStation " ><span itemprop="title">Sony PlayStation </span></a></span><span class="navigation-pipe">></span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://gameroom.lt/lt/categories/konsoles-14" title="Konsolės" ><span itemprop="title">Konsolės</span></a></span><span class="navigation-pipe">></span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://gameroom.lt/lt/categories/playstation-5-konsoles-292" title="PlayStation 5 konsolės" ><span itemprop="title">PlayStation 5 konsolės</span></a></span><span class="navigation-pipe">></span>PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana</span>
+					<span class="navigation_page"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://gameroom.lt/lt/categories/sony-playstation-12" title="Sony PlayStation " ><span itemprop="title">Sony PlayStation </span></a></span><span class="navigation-pipe">></span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://gameroom.lt/lt/categories/konsoles-14" title="Konsolės" ><span itemprop="title">Konsolės</span></a></span><span class="navigation-pipe">></span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://gameroom.lt/lt/categories/playstation-5-konsoles-292" title="PlayStation 5 konsolės" ><span itemprop="title">PlayStation 5 konsolės</span></a></span><span class="navigation-pipe">></span>PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack (Papildomas valdiklis + 3 žaidimai) +Dovana</span>
 			</div>
 <!-- /Breadcrumb -->
 
@@ -3049,7 +3049,7 @@
 
 			<div class="header-elements">
 				<div class="product-page-title">
-					<span class="product-name-title" itemprop="name">PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana</span>
+					<span class="product-name-title" itemprop="name">PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack (Papildomas valdiklis + 3 žaidimai) +Dovana</span>
 
                                             <div class="product-label new-box">
                             <span class="new-label">Nauja</span>
@@ -3085,17 +3085,17 @@
                 <div class="cover-img-block col-md-5 col-sm-5">
                     <div id="image-block" class="clearfix">
                                                     <span id="view_full_size">
-								<img itemprop="image" src="https://gameroom.lt/32806/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana" alt="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana"/>
+								<img itemprop="image" src="https://gameroom.lt/32739/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack (Papildomas valdiklis + 3 žaidimai) +Dovana" alt="PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack (Papildomas valdiklis + 3 žaidimai) +Dovana"/>
 							</span>
                                             </div> <!-- end image-block -->
                 </div><br>
 															<span id="slick_view_image">
-																																																<img id="32807" src="https://gameroom.lt/32807/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
-																																									<img id="32802" src="https://gameroom.lt/32802/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
-																																									<img id="32801" src="https://gameroom.lt/32801/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
-																																									<img id="32800" src="https://gameroom.lt/32800/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
-																																									<img id="32799" src="https://gameroom.lt/32799/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
-																																									<img id="32798" src="https://gameroom.lt/32798/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
+																																																<img id="32738" src="https://gameroom.lt/32738/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
+																																									<img id="32736" src="https://gameroom.lt/32736/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
+																																									<img id="32735" src="https://gameroom.lt/32735/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
+																																									<img id="32734" src="https://gameroom.lt/32734/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
+																																									<img id="32733" src="https://gameroom.lt/32733/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
+																																									<img id="32732" src="https://gameroom.lt/32732/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg" title="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack (Papildomas valdiklis + 3 &#382;aidimai) +Dovana" alt="PlayStation 5 &#382;aidim&#371; konsol&#279; 825GB (PS5) Starter pack (Papildomas valdiklis + 3 &#382;aidimai) +Dovana"/>
 																					</span>
 												</div>
 			<div class="row full_view_images">
@@ -3113,25 +3113,25 @@ data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="fal
 
 
 
-                    <a href="https://gameroom.lt/32807/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg">
-            <img src="https://gameroom.lt/32807/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
+                    <a href="https://gameroom.lt/32738/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg">
+            <img src="https://gameroom.lt/32738/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
         </a>
-                    <a href="https://gameroom.lt/32802/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg">
-            <img src="https://gameroom.lt/32802/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
+                    <a href="https://gameroom.lt/32736/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg">
+            <img src="https://gameroom.lt/32736/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
         </a>
                                         <a href="https://youtu.be/RkC0l4iekYo"><img src="https://img.youtube.com/vi/RkC0l4iekYo/mqdefault.jpg"></a>
-                            <a href="https://gameroom.lt/32801/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg">
-            <img src="https://gameroom.lt/32801/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
+                            <a href="https://gameroom.lt/32735/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg">
+            <img src="https://gameroom.lt/32735/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
         </a>
                                         <a href="https://youtu.be/SebzB8W3bVU"><img src="https://img.youtube.com/vi/SebzB8W3bVU/mqdefault.jpg"></a>
-                            <a href="https://gameroom.lt/32800/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg">
-            <img src="https://gameroom.lt/32800/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
+                            <a href="https://gameroom.lt/32734/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg">
+            <img src="https://gameroom.lt/32734/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
         </a>
-                    <a href="https://gameroom.lt/32799/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg">
-            <img src="https://gameroom.lt/32799/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
+                    <a href="https://gameroom.lt/32733/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg">
+            <img src="https://gameroom.lt/32733/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
         </a>
-                    <a href="https://gameroom.lt/32798/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg">
-            <img src="https://gameroom.lt/32798/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
+                    <a href="https://gameroom.lt/32732/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg">
+            <img src="https://gameroom.lt/32732/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg"/>
         </a>
     
 
@@ -3183,7 +3183,7 @@ data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="fal
                             <div class="price">
                                                                     <div class=" col-md-12  item-price-left">
                                         <span class="our_price_display" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
-                                            <div id="our_price_display" class="price" itemprop="price" content="799.000001">799,00 €</div><div class="price-without-tax" itemprop="price">be PVM: 660,33 €</div><meta itemprop="priceCurrency" content="EUR" />                                        </span>
+                                            <div id="our_price_display" class="price" itemprop="price" content="779">779,00 €</div><div class="price-without-tax" itemprop="price">be PVM: 643,80 €</div><meta itemprop="priceCurrency" content="EUR" />                                        </span>
                                     </div>
                                 
                                                             </div>
@@ -3215,7 +3215,7 @@ data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="fal
             
             <p class="hidden">
                 <input type="hidden" name="token" value="417281977cd2a7b69c2cbbd815a3c081" />
-                <input type="hidden" name="id_product" value="4882" id="product_page_product_id" />
+                <input type="hidden" name="id_product" value="4872" id="product_page_product_id" />
                 <input type="hidden" name="add" value="1" />
                 <input type="hidden" name="id_product_attribute" id="idCombination" value="" />
             </p>
@@ -3232,7 +3232,7 @@ data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="fal
 
 
 <div class="icwishlist-button-block">
-    <a class="icwishlist-button btn btn-highlighted" rel="nofollow" data-id-product="4882" title="Įsiminti">
+    <a class="icwishlist-button btn btn-highlighted" rel="nofollow" data-id-product="4872" title="Įsiminti">
         <i class="fas fa-heart"></i> <span class="wish-text">Noriu!</span>
     </a>
 </div>
@@ -3253,41 +3253,7 @@ data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="fal
                                 </div>
                             </div>
                                                                                 </div>
-                            <div id="product_comments_block_extra" class="no-print col-lg-12 col-sm-4" itemprop="aggregateRating" itemscope
-         itemtype="https://schema.org/AggregateRating">
-                    <div class="comments_note clearfix">
-                
-                <div class="star_content clearfix">
-                    <div class="star-right">
-                                                                            <div class="star-rate">
-                                <i class="fas fa-star"></i>
-                        </div>
-                                                                                                        <div class="star-rate">
-                                <i class="fas fa-star"></i>
-                        </div>
-                                                                                                        <div class="star-rate">
-                                <i class="fas fa-star"></i>
-                        </div>
-                                                                                                        <div class="star-rate">
-                                <i class="fas fa-star"></i>
-                        </div>
-                                                                                                        <div class="star-rate">
-                                <i class="fas fa-star"></i>
-                        </div>
-                                                    
-                        <h4>5.0/5</h4>
-                    </div>
-                    <meta itemprop="worstRating" content="0" />
-                    <meta itemprop="ratingValue"
-                          content="5" />
-                    <meta itemprop="bestRating" content="5" />
-                </div>
-            </div>
-            <!-- .comments_note -->
-        
-        
-    </div>
-<!-- /Module ProductComments -->
+                        <!-- /Module ProductComments -->
 
                                                                                 </div> 
                 <div class="clearfix"></div>
@@ -3329,7 +3295,7 @@ data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="fal
 						<div id="producttab-description" class="page-product-box tab-pane">
 							<!-- <h3 class="page-product-heading">Apie prekę</h3> -->
 							<!-- full description -->
-							<div  class="rte"><p><img src="https://gameroom.lt/img/p/3/2/8/0/7/32807.jpg?time=1605958727174" width="1570" height="998" alt="32807.jpg?time=1605958727174" /></p>
+							<div  class="rte"><p><img src="https://gameroom.lt/img/cms/PS5/starter%20pack.jpg" alt="" width="1570" height="998" /></p>
 <p><img src="https://gameroom.lt/img/cms/PS5/ps5%20cover.jpg" alt="" width="1600" height="6544" /></p></div>
 						</div>
 						<!--end  More info -->
@@ -3361,55 +3327,8 @@ data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="fal
     <div class="alert alert-success" id="reviewStatusTop"></div>
 
     <div id="commentsBlock">
-                                                <div class="comment" itemprop="review" itemscope itemtype="https://schema.org/Review">
-                    <div class="comment_author">
-                        <div class="comment_author_infos">
-                                                            <img src="https://gameroom.lt/img/flags/lt.png" alt="">
-                                                        <span class="author_name" itemprop="author">Linas L</span>
-                            <div class="star_content clearfix" itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
-                                                                                                            <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                    <meta itemprop="worstRating" content="0" />
-                                <meta itemprop="ratingValue" content="5" />
-                                <meta itemprop="bestRating" content="5" />
-                            </div>
-                            
-                        </div>
-                    </div>
+            <p class="align_center no-reviews">Komentarų kol kas nėra. Būk pirmas!</p>
 
-                    <div class="comment_details">
-                        <p itemprop="reviewBody">Negalima Sergejau rezervuot is anksto kol nera "prekyboj", visiem vienodas sansas isigyt kai tik paleis pirkima situ komplektu</p>
-                        
-                    </div>
-                </div>
-                                                            <div class="comment" itemprop="review" itemscope itemtype="https://schema.org/Review">
-                    <div class="comment_author">
-                        <div class="comment_author_infos">
-                                                            <img src="https://gameroom.lt/img/flags/lt.png" alt="">
-                                                        <span class="author_name" itemprop="author">Sergejus R</span>
-                            <div class="star_content clearfix" itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
-                                                                                                            <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                                                                <div class="star star_on"></div>
-                                                                                                    <meta itemprop="worstRating" content="0" />
-                                <meta itemprop="ratingValue" content="5" />
-                                <meta itemprop="bestRating" content="5" />
-                            </div>
-                            
-                        </div>
-                    </div>
-
-                    <div class="comment_details">
-                        <p itemprop="reviewBody">Sveiki, domina būtent šis variantas, nes žiūriu, kad artimiusiu metu kitų galimybių nenusimato. Ar tikrai gausit gruodį ir ar būtu galimybė iš anksto rezervuoti, jeigu gavimas tikrai nusimato? </p>
-                        
-                    </div>
-                </div>
-                        
     </div>
 
             <p class="alert alert-warning">
@@ -3608,7 +3527,7 @@ data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="fal
 
 	<div class="fb-page"
 		 data-href="https://www.facebook.com/GAMEROOMBALTIC/"
-		 data-width="320"
+		 data-width="380"
 		 data-hide-cover="false"
 		 data-show-facepile="false"></div>
 
@@ -4234,15 +4153,15 @@ data-showprevbutton="false" data-shownextbutton="false" data-showplaybutton="fal
 			<i class="icon icon-times"></i>
 		</div>
 	</div>
-<script type="text/javascript">/* <![CDATA[ */;var CUSTOMIZE_TEXTFIELD=1;var FancyboxI18nClose='Uždaryti';var FancyboxI18nNext='Tęsti';var FancyboxI18nPrev='Atgal';var PS_CATALOG_MODE=false;var afGetProductLink='https://gameroom.lt/lt/module/icadwordsfeed/products';var ajax_allowed=true;var ajaxsearch=true;var allowBuyWhenOutOfStock=true;var attribute_anchor_separator='-';var attributesCombinations=[];var availableLaterValue='';var availableNowValue='';var baseDir='https://gameroom.lt/';var baseUri='https://gameroom.lt/';var comparator_max_item=0;var comparedProductsIds=[];var confirm_report_message='Ar tikrai esate įsitikinę, kad norite pranešti apie šį komentarą?';var contentOnly=false;var cookiePosition='bottom';var cookieTopNotificationDaysNotShow='2';var cookieTopNotificationKey='1586850217';var currency={"id":1,"name":"Euro","iso_code":"EUR","iso_code_num":"978","sign":"\u20ac","blank":"1","conversion_rate":"1.000000","deleted":"0","format":"2","decimals":"1","active":"1","auto_format":true,"prefix":"","suffix":" \u20ac","id_lang":null,"id_shop":"1","id_shop_list":null,"force_id":false};var currencyBlank=1;var currencyFormat=2;var currencyModes={"EUR":true};var currencyRate=1;var currencySign='€';var currentDate='2020-11-24 16:58:55';var customerGroupWithoutTax=false;var customizationFields=false;var customizationId=null;var customizationIdMessage='Modifikacija #';var daysText='D';var default_eco_tax=0;var delete_txt='Pašalinti';var discountsText='Nuolaidos';var displayList=false;var displayPrice=0;var doesntExist='Prekė su šiomis savybėmis nebeegzistuoja. Prašome pasirinkti kitas savybes.';var doesntExistNoMore='Išparduota';var doesntExistNoMoreBut='su šiomis savybėmis, tačiau turime su kitomis.';var ecotaxTax_rate=0;var fbPixelId='358710474734960';var fbpCurrencyCode='EUR';var fbpGetProductLink='https://gameroom.lt/lt/module/icfbpixel/products';var fbpModuleDir='/modules/icfbpixel/';var fbpPrice='799.00';var fbpProductCategory='Sony PlayStation >Konsolės>PlayStation 5 konsolės';var fbpProductId=4882;var fbpProductName='PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana';var fbpTrackCartAdd='1';var fbpViewType='product';var fieldRequired='Prašome užpildyti visus privalomus laukelius prieš išsaugant.';var freeProductTranslation='Nemokamai!';var freeShippingTranslation='Nemokamas pristatymas!';var frontICWishlistPlusLink='https://gameroom.lt/lt/module/icwishlistplus/wishlist';var gdprHideBdaySelect=null;var generated_date=1606229935;var groupReduction=0;var hasDeliveryAddress=false;var highDPI=false;var hourText='VAL';var hoursMeasurement='Val. ';var icAdwordsCategoryName='PlayStation 5 konsolės';var icAdwordsId='AW-966155767';var idDefaultImage=32806;var id_lang=2;var id_product=4882;var id_shop=1;var img_dir='https://gameroom.lt/themes/pf_megashop/img/';var img_prod_dir='https://gameroom.lt/img/p/';var img_ps_dir='https://gameroom.lt/img/';var instantsearch=false;var isGuest=0;var isLogged=0;var isMobile=false;var isScriptActive=true;var jqZoomEnabled=false;var maxQuantityToAllowDisplayOfLastQuantityMessage=3;var max_item='Prekių palyginimui galima pridėti ne daugiau nei 0 prekių';var minText='MIN';var min_item='Pasirinkite bent vieną prekę';var minimalQuantity=1;var minutesMeasurement='Min. ';var moderation_active=true;var noTaxForThisProduct=false;var oosHookJsCodeFunctions=[];var page_name='product';var priceDisplayMethod=0;var priceDisplayPrecision=2;var productAvailableForOrder=false;var productBasePriceTaxExcl=660.330579;var productBasePriceTaxExcluded=660.330579;var productBasePriceTaxIncl=799.000001;var productHasAttributes=false;var productPrice=799.000001;var productPriceTaxExcluded=660.330579;var productPriceTaxIncluded=799.000001;var productPriceWithoutReduction=799.000001;var productReference='PS51TBSTART2';var productShowPrice=true;var productUnitPriceRatio=0;var product_fileButtonHtml='Pasirinkite failą';var product_fileDefaultHtml='Nepasirinktas failas';var product_specific_price=[];var productcomment_added='Jūsų komentaras pridėtas!';var productcomment_added_moderation='Jūsų komentaras buvo pridėtas ir bus rodomas, kai tik bus patvirtintas moderatoriaus';var productcomment_ok='GERAI';var productcomment_title='Naujas komentaras';var productcomments_controller_url='https://gameroom.lt/lt/module/productcomments/default';var productcomments_url_rewrite=true;var ptsblocksearch_type='top';var qtyLabel='vnt.';var quantitiesDisplayAllowed=true;var quantityAvailable=-1;var quickView=true;var reduction_percent=0;var reduction_price=0;var removeText='Pašalinti';var removingLinkText='pašalinti prekę iš krepšelio';var rg_pushnotifications={"_path":"\/modules\/rg_pushnotifications\/","token":"7748018a418d6e5fa66a03b9183d94e0","APP_ID":"fcb8a445-5b57-44ef-b94d-f55e6ecae5be","PS_SHOP_NAME":"GAME ROOM","RGPUNO_REQUEST_DELAY_PAGES_VIEWED":1,"RGPUNO_REQUEST_DELAY_TIME":10000,"RGPUNO_REQUEST_MSG":"Ar norite gauti prane\u0161imus susijusius su j\u016bs\u0173 u\u017esakymu?","RGPUNO_REQUEST_BTN_ACCEPT":"Taip, noriu!","RGPUNO_REQUEST_BTN_CANCEL":"Ne dabar","RGPUNO_DEBUG_MODE":false,"RGPUNO_PERSISTENT_NOTIF":false,"RGPUNO_POPUP_ALLOWED_SHOW":false,"RGPUNO_POPUP_ALLOWED_MSG":false,"RGPUNO_POPUP_DECLINED_SHOW":false,"RGPUNO_POPUP_DECLINED_MSG":false,"RGPUNO_WELCOME_SHOW":false,"RGPUNO_WELCOME_TITLE":"","RGPUNO_WELCOME_MSG":"","RGPUNO_WELCOME_URL":"","RGPUNO_BELL_SHOW":true,"RGPUNO_BELL_HIDE_SUBS":false,"RGPUNO_BELL_SIZE":"small","RGPUNO_BELL_THEME":"default","RGPUNO_BELL_BACK":"","RGPUNO_BELL_FORE":"","RGPUNO_BELL_DIAG_FORE":null,"RGPUNO_BELL_DIAG_BACK":null,"RGPUNO_BELL_DIAG_BACK_HOVER":null,"RGPUNO_BELL_POSITION":"bottom-right","RGPUNO_BELL_OFFSET_BOTOM":15,"RGPUNO_BELL_OFFSET_RIGHT":15,"RGPUNO_BELL_OFFSET_LEFT":15,"RGPUNO_BELL_PRENOTIFY":false,"RGPUNO_BELL_SHOW_CREDIT":false,"RGPUNO_BELL_TIP_STATE_UNS":"Subscribe to notifications","RGPUNO_BELL_TIP_STATE_SUB":"You're subscribed to notifications","RGPUNO_BELL_TIP_STATE_BLO":"You've blocked notifications","RGPUNO_BELL_MSG_PRENOTIFY":"","RGPUNO_BELL_ACTION_SUBS":"Click to subscribe to notifications","RGPUNO_BELL_ACTION_RESUB":"You're subscribed to notifications","RGPUNO_BELL_ACTION_UNS":"You won't receive notifications again","RGPUNO_BELL_MAIN_TITLE":"Manage Shop Notifications","RGPUNO_BELL_MAIN_UNS":"UNSUBSCRIBE","RGPUNO_BELL_MAIN_SUB":"SUBSCRIBE","RGPUNO_BELL_BLOCKED_TITLE":"Unblock Notifications","RGPUNO_BELL_BLOCKED_MSG":"Follow these instructions to allow notifications","SAFARI_WEB_ID":"web.onesignal.auto.064b44a8-1dd7-4e10-9d87-452ef5b9c9dd"};var roundMode=2;var search_url='https://gameroom.lt/lt/paieska';var secondText='SEK';var secure_key='14ea6097aa28934e54a13968b134e896';var sharing_img='https://gameroom.lt/32806/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg';var sharing_name='PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 žaidimai) +Dovana';var sharing_url='https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882';var specific_currency=false;var specific_price=0;var static_token='417281977cd2a7b69c2cbbd815a3c081';var stock_management=1;var taxRate=21;var toBeDetermined='Bus apskaičiuota';var token='417281977cd2a7b69c2cbbd815a3c081';var uploading_in_progress='Siunčiama, prašome palaukti.';var useLazyLoad=false;var useWebp=false;var usingSecureMode=true;var venipak_checkout_type='1';var venipak_controller_url='https://gameroom.lt/lt/module/venipakcarrier/front';var venipak_id_carrier='142';var venipak_id_parcels='103';var venipak_ps_version='1.6';var venipak_token='417281977cd2a7b69c2cbbd815a3c081';/* ]]> */</script>
+<script type="text/javascript">/* <![CDATA[ */;var CUSTOMIZE_TEXTFIELD=1;var FancyboxI18nClose='Uždaryti';var FancyboxI18nNext='Tęsti';var FancyboxI18nPrev='Atgal';var PS_CATALOG_MODE=false;var afGetProductLink='https://gameroom.lt/lt/module/icadwordsfeed/products';var ajax_allowed=true;var ajaxsearch=true;var allowBuyWhenOutOfStock=true;var attribute_anchor_separator='-';var attributesCombinations=[];var availableLaterValue='';var availableNowValue='';var baseDir='https://gameroom.lt/';var baseUri='https://gameroom.lt/';var comparator_max_item=0;var comparedProductsIds=[];var confirm_report_message='Ar tikrai esate įsitikinę, kad norite pranešti apie šį komentarą?';var contentOnly=false;var cookiePosition='bottom';var cookieTopNotificationDaysNotShow='2';var cookieTopNotificationKey='1586850217';var currency={"id":1,"name":"Euro","iso_code":"EUR","iso_code_num":"978","sign":"\u20ac","blank":"1","conversion_rate":"1.000000","deleted":"0","format":"2","decimals":"1","active":"1","auto_format":true,"prefix":"","suffix":" \u20ac","id_lang":null,"id_shop":"1","id_shop_list":null,"force_id":false};var currencyBlank=1;var currencyFormat=2;var currencyModes={"EUR":true};var currencyRate=1;var currencySign='€';var currentDate='2020-11-24 17:03:41';var customerGroupWithoutTax=false;var customizationFields=false;var customizationId=null;var customizationIdMessage='Modifikacija #';var daysText='D';var default_eco_tax=0;var delete_txt='Pašalinti';var discountsText='Nuolaidos';var displayList=false;var displayPrice=0;var doesntExist='Prekė su šiomis savybėmis nebeegzistuoja. Prašome pasirinkti kitas savybes.';var doesntExistNoMore='Išparduota';var doesntExistNoMoreBut='su šiomis savybėmis, tačiau turime su kitomis.';var ecotaxTax_rate=0;var fbPixelId='358710474734960';var fbpCurrencyCode='EUR';var fbpGetProductLink='https://gameroom.lt/lt/module/icfbpixel/products';var fbpModuleDir='/modules/icfbpixel/';var fbpPrice='779.00';var fbpProductCategory='Sony PlayStation >Konsolės>PlayStation 5 konsolės';var fbpProductId=4872;var fbpProductName='PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack (Papildomas valdiklis + 3 žaidimai) +Dovana';var fbpTrackCartAdd='1';var fbpViewType='product';var fieldRequired='Prašome užpildyti visus privalomus laukelius prieš išsaugant.';var freeProductTranslation='Nemokamai!';var freeShippingTranslation='Nemokamas pristatymas!';var frontICWishlistPlusLink='https://gameroom.lt/lt/module/icwishlistplus/wishlist';var gdprHideBdaySelect=null;var generated_date=1606230221;var groupReduction=0;var hasDeliveryAddress=false;var highDPI=false;var hourText='VAL';var hoursMeasurement='Val. ';var icAdwordsCategoryName='PlayStation 5 konsolės';var icAdwordsId='AW-966155767';var idDefaultImage=32739;var id_lang=2;var id_product=4872;var id_shop=1;var img_dir='https://gameroom.lt/themes/pf_megashop/img/';var img_prod_dir='https://gameroom.lt/img/p/';var img_ps_dir='https://gameroom.lt/img/';var instantsearch=false;var isGuest=0;var isLogged=0;var isMobile=false;var isScriptActive=true;var jqZoomEnabled=false;var maxQuantityToAllowDisplayOfLastQuantityMessage=3;var max_item='Prekių palyginimui galima pridėti ne daugiau nei 0 prekių';var minText='MIN';var min_item='Pasirinkite bent vieną prekę';var minimalQuantity=1;var minutesMeasurement='Min. ';var moderation_active=true;var noTaxForThisProduct=false;var oosHookJsCodeFunctions=[];var page_name='product';var priceDisplayMethod=0;var priceDisplayPrecision=2;var productAvailableForOrder=false;var productBasePriceTaxExcl=643.801653;var productBasePriceTaxExcluded=643.801653;var productBasePriceTaxIncl=779;var productHasAttributes=false;var productPrice=779;var productPriceTaxExcluded=643.801653;var productPriceTaxIncluded=779;var productPriceWithoutReduction=779;var productReference='PS51TBSTARTE';var productShowPrice=true;var productUnitPriceRatio=0;var product_fileButtonHtml='Pasirinkite failą';var product_fileDefaultHtml='Nepasirinktas failas';var product_specific_price=[];var productcomment_added='Jūsų komentaras pridėtas!';var productcomment_added_moderation='Jūsų komentaras buvo pridėtas ir bus rodomas, kai tik bus patvirtintas moderatoriaus';var productcomment_ok='GERAI';var productcomment_title='Naujas komentaras';var productcomments_controller_url='https://gameroom.lt/lt/module/productcomments/default';var productcomments_url_rewrite=true;var ptsblocksearch_type='top';var qtyLabel='vnt.';var quantitiesDisplayAllowed=true;var quantityAvailable=-3;var quickView=true;var reduction_percent=0;var reduction_price=0;var removeText='Pašalinti';var removingLinkText='pašalinti prekę iš krepšelio';var rg_pushnotifications={"_path":"\/modules\/rg_pushnotifications\/","token":"7748018a418d6e5fa66a03b9183d94e0","APP_ID":"fcb8a445-5b57-44ef-b94d-f55e6ecae5be","PS_SHOP_NAME":"GAME ROOM","RGPUNO_REQUEST_DELAY_PAGES_VIEWED":1,"RGPUNO_REQUEST_DELAY_TIME":10000,"RGPUNO_REQUEST_MSG":"Ar norite gauti prane\u0161imus susijusius su j\u016bs\u0173 u\u017esakymu?","RGPUNO_REQUEST_BTN_ACCEPT":"Taip, noriu!","RGPUNO_REQUEST_BTN_CANCEL":"Ne dabar","RGPUNO_DEBUG_MODE":false,"RGPUNO_PERSISTENT_NOTIF":false,"RGPUNO_POPUP_ALLOWED_SHOW":false,"RGPUNO_POPUP_ALLOWED_MSG":false,"RGPUNO_POPUP_DECLINED_SHOW":false,"RGPUNO_POPUP_DECLINED_MSG":false,"RGPUNO_WELCOME_SHOW":false,"RGPUNO_WELCOME_TITLE":"","RGPUNO_WELCOME_MSG":"","RGPUNO_WELCOME_URL":"","RGPUNO_BELL_SHOW":true,"RGPUNO_BELL_HIDE_SUBS":false,"RGPUNO_BELL_SIZE":"small","RGPUNO_BELL_THEME":"default","RGPUNO_BELL_BACK":"","RGPUNO_BELL_FORE":"","RGPUNO_BELL_DIAG_FORE":null,"RGPUNO_BELL_DIAG_BACK":null,"RGPUNO_BELL_DIAG_BACK_HOVER":null,"RGPUNO_BELL_POSITION":"bottom-right","RGPUNO_BELL_OFFSET_BOTOM":15,"RGPUNO_BELL_OFFSET_RIGHT":15,"RGPUNO_BELL_OFFSET_LEFT":15,"RGPUNO_BELL_PRENOTIFY":false,"RGPUNO_BELL_SHOW_CREDIT":false,"RGPUNO_BELL_TIP_STATE_UNS":"Subscribe to notifications","RGPUNO_BELL_TIP_STATE_SUB":"You're subscribed to notifications","RGPUNO_BELL_TIP_STATE_BLO":"You've blocked notifications","RGPUNO_BELL_MSG_PRENOTIFY":"","RGPUNO_BELL_ACTION_SUBS":"Click to subscribe to notifications","RGPUNO_BELL_ACTION_RESUB":"You're subscribed to notifications","RGPUNO_BELL_ACTION_UNS":"You won't receive notifications again","RGPUNO_BELL_MAIN_TITLE":"Manage Shop Notifications","RGPUNO_BELL_MAIN_UNS":"UNSUBSCRIBE","RGPUNO_BELL_MAIN_SUB":"SUBSCRIBE","RGPUNO_BELL_BLOCKED_TITLE":"Unblock Notifications","RGPUNO_BELL_BLOCKED_MSG":"Follow these instructions to allow notifications","SAFARI_WEB_ID":"web.onesignal.auto.064b44a8-1dd7-4e10-9d87-452ef5b9c9dd"};var roundMode=2;var search_url='https://gameroom.lt/lt/paieska';var secondText='SEK';var secure_key='14ea6097aa28934e54a13968b134e896';var sharing_img='https://gameroom.lt/32739/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg';var sharing_name='PlayStation 5 žaidimų konsolė 825GB (PS5) Starter pack (Papildomas valdiklis + 3 žaidimai) +Dovana';var sharing_url='https://gameroom.lt/lt/playstation-5-konsoles/products/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4872';var specific_currency=false;var specific_price=0;var static_token='417281977cd2a7b69c2cbbd815a3c081';var stock_management=1;var taxRate=21;var toBeDetermined='Bus apskaičiuota';var token='417281977cd2a7b69c2cbbd815a3c081';var uploading_in_progress='Siunčiama, prašome palaukti.';var useLazyLoad=false;var useWebp=false;var usingSecureMode=true;var venipak_checkout_type='1';var venipak_controller_url='https://gameroom.lt/lt/module/venipakcarrier/front';var venipak_id_carrier='142';var venipak_id_parcels='103';var venipak_ps_version='1.6';var venipak_token='417281977cd2a7b69c2cbbd815a3c081';/* ]]> */</script>
 <script type="text/javascript" src="https://gameroom.lt/themes/pf_megashop/cache/v_214_96e42c84a7705890c92690972fac5341.js"></script>
 <script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=AW-966155767"></script>
 <script type="text/javascript" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
-<script type="text/javascript">/* <![CDATA[ */;writeBookmarkLink('https://gameroom.lt/lt/peles/products/razer-basilisk-ultimate-juoda-beviele-zaidimu-optine-pele-20000-dpi-4629','Pirkti RAZER BASILISK ULTIMATE juoda bevielė žaidimų optinė pelė | 20000 DPI','įsiminti');;$('document').ready(function(){var width_ac_results=$("#pts_search_query_top").outerWidth();if($(window).width()<=600){width_ac_results='100%';}else if($(window).width()<=991){width_ac_results='50%';}
+<script type="text/javascript">/* <![CDATA[ */;writeBookmarkLink('https://gameroom.lt/lt/','GameRoom.lt  Play Eat Repeat - GAME ROOM','įsiminti');;$('document').ready(function(){var width_ac_results=$("#pts_search_query_top").outerWidth();if($(window).width()<=600){width_ac_results='100%';}else if($(window).width()<=991){width_ac_results='50%';}
 var ac=$("#pts_search_query_top").autocomplete('https://gameroom.lt/lt/paieska',{minChars:3,max:10,width:width_ac_results,selectFirst:false,scroll:false,dataType:"json",formatItem:function(data,i,max,value,term){return value;},parse:function(data){var mytab=new Array();for(var i=0;i<data.length;i++){var logoImg='';if(data[i].has_console_img){logoImg='<img class="ac_search_console_logo" src="/img/consoles/'+data[i].id_category_default+'.png">';}
 mytab[mytab.length]={data:data[i],value:'<img class="pull-left" src="'+data[i].image+'">'+logoImg+'<div class="name">'+data[i].pname+'</div>'+
 (typeof data[i].dprice!=='undefined'?'<div class="price">'+data[i].dprice+'</div>':''),};}
-return mytab;},extraParams:{ajaxSearch:1,id_lang:2,category_filter:$("#category_filter").val()}}).result(function(event,data,formatted){$('#pts_search_query_top').val(data.pname);document.location.href=data.product_link;});$("#category_filter").change(function(){ac.setOptions({extraParams:{ajaxSearch:1,id_lang:2,category_filter:$("#category_filter").val()}});});});;$(document).ready(function(){$(".mobile-search").on('click',function(){$(this).toggleClass('active-search');$('#searchbox').toggleClass('tmsearch-active');});});$(document).mouseup(function(e){if($('#searchbox').has(e.target).length===0&&$('#tmsearch').has(e.target).length===0&&$('#searchbox').hasClass('tmsearch-active')){$('.mobile-search').removeClass('active-search');$('#searchbox').removeClass('tmsearch-active');}});;var omnisendProduct={"productID":"4882","title":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","description":"\r\n","currency":"EUR","productUrl":"https:\/\/gameroom.lt\/lt\/playstation-5-konsoles\/products\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882","vendor":"Sony Interactive Entertainment","images":{"32806":{"imageID":"32806","url":"https:\/\/gameroom.lt\/32806\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":true},"32807":{"imageID":"32807","url":"https:\/\/gameroom.lt\/32807\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32802":{"imageID":"32802","url":"https:\/\/gameroom.lt\/32802\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32801":{"imageID":"32801","url":"https:\/\/gameroom.lt\/32801\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32800":{"imageID":"32800","url":"https:\/\/gameroom.lt\/32800\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32799":{"imageID":"32799","url":"https:\/\/gameroom.lt\/32799\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32798":{"imageID":"32798","url":"https:\/\/gameroom.lt\/32798\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false}},"variants":[{"variantID":"4882","title":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","sku":"","status":"inStock","price":79900,"oldPrice":79900,"productUrl":"https:\/\/gameroom.lt\/lt\/playstation-5-konsoles\/products\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-2-papildomas-valdiklis-3-zaidimai-dovana-4882","imageID":"32806"}]};;$(document).ready(function(){$(".tabs-info .nav-tabs li",this).first().addClass("active");$(".tabs-info .tab-content .tab-pane",this).first().addClass("active");});;$("a.pts-fancybox").fancybox();;$(document).ready(function(){slickInit();function slickInit(){$('#relatedproducts .boxcarousel .product_list').not('.slick-initialized').slick({focusOnSelect:false,arrows:true,dots:false,infinite:true,prevArrow:'<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fal fa-chevron-left fa-3x"></i></button>',nextArrow:'<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fal fa-chevron-right fa-3x"></i></button>',speed:300,slidesToShow:8,slidesToScroll:4,focusOnSelect:false,responsive:[{breakpoint:1799,settings:{slidesToShow:6,slidesToScroll:2,}},{breakpoint:1555,settings:{slidesToShow:5,slidesToScroll:2,}},{breakpoint:1024,settings:{slidesToShow:4,slidesToScroll:2,}},{breakpoint:767,settings:{slidesToShow:3,slidesToScroll:2}},{breakpoint:600,settings:{slidesToShow:1,slidesToScroll:1}},{breakpoint:480,settings:{slidesToShow:1,slidesToScroll:1}}]});}});;var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/5a8d627ad7591465c707df0a/default';s1.charset='UTF-8';s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})();;window.onpageshow=function(event){if(event.persisted){window.location.reload()}};var analyticsEvents=new AnalyticsEvents();var controllerName='product';var compliantModuleName='';var isOrder=0;var isCheckout=0;var idShop;var order;var pageTrack;var product;var products;var checkoutEvent;analyticsEvents.trackingFeatures=guaTrackingFeatures;analyticsEvents.initPosition=1;analyticsEvents.list='Accessories';analyticsEvents.filterList='Filtered Results';analyticsEvents.instantSearchList='Instant Search Results';analyticsEvents.productViewList='Product Page';analyticsEvents.ecommPageType='product';analyticsEvents.shippingEventName='shipping selected';analyticsEvents.paymentEventName='payment selected';analyticsEvents.opcEventName='payment / shipping';analyticsEvents.pageStep=1;pageTrack='';product={"id":4882,"name":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack 2 (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","variant":null,"brand":"Sony Interactive Entertainment","category":"Sony PlayStation \/Konsol\u0117s\/PlayStation 5 konsol\u0117s","position":null,"list":null,"price":799,"quantity":null,"id_attribute":null};analyticsEvents.onProductDetail(product);analyticsEvents.onPageView(pageTrack);document.addEventListener('DOMContentLoaded',initGaEvents,false);function initGaEvents(){document.body.addEventListener('click',analyticsEvents.eventRemoveFromCart,false);if(!isCheckout&&!isOrder){window.addEventListener('scroll',analyticsEvents.eventScrollList.bind(analyticsEvents),false);document.body.addEventListener('click',analyticsEvents.eventClickProductList,false);document.body.addEventListener('click',analyticsEvents.eventAddCartProductList,false);document.body.addEventListener('click',analyticsEvents.eventAddCartProductView,false);}
+return mytab;},extraParams:{ajaxSearch:1,id_lang:2,category_filter:$("#category_filter").val()}}).result(function(event,data,formatted){$('#pts_search_query_top').val(data.pname);document.location.href=data.product_link;});$("#category_filter").change(function(){ac.setOptions({extraParams:{ajaxSearch:1,id_lang:2,category_filter:$("#category_filter").val()}});});});;$(document).ready(function(){$(".mobile-search").on('click',function(){$(this).toggleClass('active-search');$('#searchbox').toggleClass('tmsearch-active');});});$(document).mouseup(function(e){if($('#searchbox').has(e.target).length===0&&$('#tmsearch').has(e.target).length===0&&$('#searchbox').hasClass('tmsearch-active')){$('.mobile-search').removeClass('active-search');$('#searchbox').removeClass('tmsearch-active');}});;var omnisendProduct={"productID":"4872","title":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","description":"\r\n","currency":"EUR","productUrl":"https:\/\/gameroom.lt\/lt\/playstation-5-konsoles\/products\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4872","vendor":"Sony Interactive Entertainment","images":{"32739":{"imageID":"32739","url":"https:\/\/gameroom.lt\/32739\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":true},"32738":{"imageID":"32738","url":"https:\/\/gameroom.lt\/32738\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32736":{"imageID":"32736","url":"https:\/\/gameroom.lt\/32736\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32735":{"imageID":"32735","url":"https:\/\/gameroom.lt\/32735\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32734":{"imageID":"32734","url":"https:\/\/gameroom.lt\/32734\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32733":{"imageID":"32733","url":"https:\/\/gameroom.lt\/32733\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false},"32732":{"imageID":"32732","url":"https:\/\/gameroom.lt\/32732\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana.jpg","isDefault":false}},"variants":[{"variantID":"4872","title":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","sku":"","status":"inStock","price":77900,"oldPrice":77900,"productUrl":"https:\/\/gameroom.lt\/lt\/playstation-5-konsoles\/products\/playstation-5-zaidimu-konsole-825gb-ps5-starter-pack-papildomas-valdiklis-3-zaidimai-dovana-4872","imageID":"32739"}]};;$(document).ready(function(){$(".tabs-info .nav-tabs li",this).first().addClass("active");$(".tabs-info .tab-content .tab-pane",this).first().addClass("active");});;$("a.pts-fancybox").fancybox();;$(document).ready(function(){slickInit();function slickInit(){$('#relatedproducts .boxcarousel .product_list').not('.slick-initialized').slick({focusOnSelect:false,arrows:true,dots:false,infinite:true,prevArrow:'<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button"><i class="fal fa-chevron-left fa-3x"></i></button>',nextArrow:'<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button"><i class="fal fa-chevron-right fa-3x"></i></button>',speed:300,slidesToShow:8,slidesToScroll:4,focusOnSelect:false,responsive:[{breakpoint:1799,settings:{slidesToShow:6,slidesToScroll:2,}},{breakpoint:1555,settings:{slidesToShow:5,slidesToScroll:2,}},{breakpoint:1024,settings:{slidesToShow:4,slidesToScroll:2,}},{breakpoint:767,settings:{slidesToShow:3,slidesToScroll:2}},{breakpoint:600,settings:{slidesToShow:1,slidesToScroll:1}},{breakpoint:480,settings:{slidesToShow:1,slidesToScroll:1}}]});}});;var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/5a8d627ad7591465c707df0a/default';s1.charset='UTF-8';s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})();;window.onpageshow=function(event){if(event.persisted){window.location.reload()}};var analyticsEvents=new AnalyticsEvents();var controllerName='product';var compliantModuleName='';var isOrder=0;var isCheckout=0;var idShop;var order;var pageTrack;var product;var products;var checkoutEvent;analyticsEvents.trackingFeatures=guaTrackingFeatures;analyticsEvents.initPosition=1;analyticsEvents.list='Accessories';analyticsEvents.filterList='Filtered Results';analyticsEvents.instantSearchList='Instant Search Results';analyticsEvents.productViewList='Product Page';analyticsEvents.ecommPageType='product';analyticsEvents.shippingEventName='shipping selected';analyticsEvents.paymentEventName='payment selected';analyticsEvents.opcEventName='payment / shipping';analyticsEvents.pageStep=1;pageTrack='';product={"id":4872,"name":"PlayStation 5 \u017eaidim\u0173 konsol\u0117 825GB (PS5) Starter pack (Papildomas valdiklis + 3 \u017eaidimai) +Dovana","variant":null,"brand":"Sony Interactive Entertainment","category":"Sony PlayStation \/Konsol\u0117s\/PlayStation 5 konsol\u0117s","position":null,"list":null,"price":779,"quantity":null,"id_attribute":null};analyticsEvents.onProductDetail(product);analyticsEvents.onPageView(pageTrack);document.addEventListener('DOMContentLoaded',initGaEvents,false);function initGaEvents(){document.body.addEventListener('click',analyticsEvents.eventRemoveFromCart,false);if(!isCheckout&&!isOrder){window.addEventListener('scroll',analyticsEvents.eventScrollList.bind(analyticsEvents),false);document.body.addEventListener('click',analyticsEvents.eventClickProductList,false);document.body.addEventListener('click',analyticsEvents.eventAddCartProductList,false);document.body.addEventListener('click',analyticsEvents.eventAddCartProductView,false);}
 if(isCheckout){if(analyticsEvents.pageStep===1||analyticsEvents.pageStep===4){document.body.addEventListener('click',analyticsEvents.eventCartQuantityDelete,false);document.body.addEventListener('click',analyticsEvents.eventCartQuantityUp,false);document.body.addEventListener('click',analyticsEvents.eventCartQuantityDown,false);}
 if(controllerName==='order'){if(analyticsEvents.pageStep===3){checkoutEvent=document.querySelector('button[name="processCarrier"]');checkoutEvent.addEventListener('click',analyticsEvents.eventCheckoutStepThree,false);}else if(analyticsEvents.pageStep===4){checkoutEvent=document.querySelector('#HOOK_PAYMENT')||document.querySelector('#confirmOrder');checkoutEvent.addEventListener('click',analyticsEvents.eventCheckoutStepFour,false);}}else if(controllerName==='orderopc'&&!compliantModuleName){checkoutEvent=document.querySelector('#HOOK_PAYMENT')||document.querySelector('#confirmOrder');checkoutEvent.addEventListener('click',analyticsEvents.eventOpcPrestashop,false);}else if(controllerName==='orderopc'&&compliantModuleName==='onepagecheckout'){checkoutEvent=document.querySelectorAll('.confirm_button');if(!checkoutEvent.length){checkoutEvent=document.querySelectorAll('.payment_module');}
 checkoutEvent.forEach(function(checkoutElement){checkoutElement.addEventListener('click',analyticsEvents.eventOpcZelarg,false);});}else if(controllerName==='orderopc'&&compliantModuleName==='onepagecheckoutps'){document.body.addEventListener('click',analyticsEvents.eventOpcPrestaTeam,false);}else if(controllerName==='orderopc'&&compliantModuleName==='bestkit_opc'){document.body.addEventListener('click',analyticsEvents.eventOpcBestKit,false);}else if(controllerName==='supercheckout'){checkoutEvent=document.querySelector('#supercheckout_confirm_order');checkoutEvent.addEventListener('click',analyticsEvents.eventOpcSuperCheckout,false);}}};;window.omnisend=window.omnisend||[];omnisend.push(["accountID","5b7ff58c597ed708a407f5a1"]);omnisend.push(["track","$pageViewed"]);!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://omnisrc.com/inshop/launcher-v2.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}();/* ]]> */</script>
